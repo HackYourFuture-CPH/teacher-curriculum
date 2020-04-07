@@ -10,9 +10,8 @@ This repo serves as the curriculum for what the mentors should go through in ord
 
 The curriculum does not need to be followed in a specific order but can be completed when there is time
 
-### Teacher feedback
-Giving feedback to others as you probably know is super good for reflecting about your own teaching
+### Teachers feedback
+As part of the teacher learning path you will be giving feedback to two other teachers.
 
-Give feedback to two different teachers. Before you sit in make sure to let the teacher know that you will be there giving feedback. Sit in on one of their classes and take notes. 
+[Feedback instructions](feedback.md)
 
-Suggest some clear changes in 
