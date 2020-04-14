@@ -18,3 +18,6 @@ As part of the teacher learning path you will be giving feedback to two other te
 ### Prepare a lessonplan
 
 ### Retrospective on a module taught
+
+### Notes
+But teaching is much more complicated. It is widely thought that it is not the job of the teacher to "transfer" knowledge to the students, but instead get the students to do the explaining. - Niels gregersen
