@@ -16,6 +16,7 @@ As part of the teacher learning path you will be giving feedback to two other te
 [Feedback instructions](feedback.md)
 
 ### Prepare a lessonplan
+Read this: https://files.eric.ed.gov/fulltext/ED566953.pdf
 
 ### Retrospective on a module taught
 
