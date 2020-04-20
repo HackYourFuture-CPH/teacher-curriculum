@@ -42,3 +42,5 @@ What happens when i run this function. What happens if i say type of to this thi
 - https://www.youtube.com/watch?v=GEmuEWjHr5c - Teacher should guide the social process of learning.  inspire, challenge and excite. Not so much static teaching, more examples, exercises and misconception busting
 
 - Really good comment in this article: https://academiccomputing.wordpress.com/2012/05/11/predicting-live-coding/
+
+- Slowing down when there are mistakes: https://www.youtube.com/watch?v=ChLu2KfIAk4
