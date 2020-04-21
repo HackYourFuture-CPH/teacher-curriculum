@@ -58,13 +58,12 @@ And when to use them. What is their pros and cons
 
 Live coding is not so much about the solution but about the process. 
 
-https://www.youtube.com/watch?v=buFRgtzfmiw general about live coding
+##### Preparation
+- https://www.youtube.com/watch?v=buFRgtzfmiw general about live coding
+- https://www.youtube.com/watch?v=ChLu2KfIAk4Slowing down when there are mistakes
+- https://www.youtube.com/watch?v=eVtCO84MDj8 Problem with live coding: Will they actually learn from passively watching live coding? 
 
-Slowing down when there are mistakes: https://www.youtube.com/watch?v=ChLu2KfIAk4
 
----
-
-Problem with live coding: Will they actually learn from passively watching live coding? https://www.youtube.com/watch?v=eVtCO84MDj8
 
 "The solution seems to be to get the students to make a prediction before the demo." What happens when i run this function. What happens if i say type of to this thing. Make it interactive. https://academiccomputing.wordpress.com/2012/07/09/science-education-research/
 
