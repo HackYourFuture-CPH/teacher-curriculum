@@ -18,7 +18,7 @@ https://computinged.wordpress.com/2013/05/13/the-critical-part-of-pck-what-stude
 
 Assess the class from the homework
 
-### Being able to draw out misconception
+#### Being able to draw out misconception
 
 https://www.youtube.com/watch?v=eVtCO84MDj8 puncturing misconceptions. How can we translate that to coding
 
