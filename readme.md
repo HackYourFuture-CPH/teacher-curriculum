@@ -9,16 +9,7 @@ This repo serves as the curriculum for what the mentors should go through in ord
 ## Curriculum
 
 The curriculum does not need to be followed in a specific order but can be completed when there is time
-
-### Teachers feedback
-As part of the teacher learning path you will be giving feedback to two other teachers.
-
-[Feedback instructions](feedback.md)
-
-### Prepare a lessonplan
-Read this: https://files.eric.ed.gov/fulltext/ED566953.pdf
-
-### Retrospective on a module taught
+ 
 
 ### Have an idea of what students get wrong
 This is linked with greater student performance
@@ -94,17 +85,25 @@ https://www.youtube.com/watch?v=Rixx-Qtnt5I
 
 #### Pair programming
 
+
 #### Worked examples
 
 
 ### Develop and execute lesson-plan
+Preparation: https://files.eric.ed.gov/fulltext/ED566953.pdf
 
-With exercises and code that should be written in class
+Develop a lesson-plan with exercises and code that should be written in class.
+
+Execute the lesson-plan and reflect on how it went.
 
 
-### Self evaluation of curriculum/teaching
-Make a retrospective on a module taught. 
+### Evaluation of a taught class
+Make a retrospective on a module taught with your teacher assistant and homework helper. https://www.scrum.org/resources/what-is-a-sprint-retrospective
 
+#### Teachers feedback
+As part of the teacher learning path you will be giving feedback to two other teachers.
+
+[Feedback instructions](feedback.md)
 
 ### Know students different learning styles
 
