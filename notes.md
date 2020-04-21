@@ -83,3 +83,12 @@ How is the pacing for you? Too fast? Too slow? Just right?
 https://www.codementor.io/@npostolovski/how-to-teach-programming-pvgpdtoed
 
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023
+
+
+
+The pearson problem was pretty cool. With the code already written, but the students have to put it in right order. Fix problems without worrying about syntax. 
+
+
+
+
+
