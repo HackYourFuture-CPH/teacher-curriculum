@@ -28,6 +28,8 @@ For debugging, I’m reminded of Beth Simon et al’s recent Peer Instruction wo
 
 ### Guide the students in their process of learning
 
+Dont only teach a class. Let them work with exercises
+
 https://www.youtube.com/watch?v=GEmuEWjHr5c - Teacher should guide the social process of learning. inspire, challenge and excite. Not so much static teaching, more examples, exercises and misconception busting
 
 "Learners make little progress when they’re watching your fingers dance over the keyboard, writing code and executing commands at what seems like impossible speed. They’ll quickly slip into a passive mode, watching things happen without truly understanding.
