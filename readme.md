@@ -11,14 +11,14 @@ This repo serves as the curriculum for what the mentors should go through in ord
 The curriculum does not need to be followed in a specific order but can be completed when there is time
  
 
-### Have an idea of what students get wrong
+### Assess class performance
 This is linked with greater student performance
 
 https://computinged.wordpress.com/2013/05/13/the-critical-part-of-pck-what-students-get-wrong/ maybe the teachers should through the homework be able to figure out what students are mostly struggling with! Coule be easily made into an exercise. First identify what this class struggles with, give the teacher 6 homeworks to look through. Now come up with a plan/worked example/live coding to help the students understand this problem
 
 Assess the class from the homework
 
-#### Being able to draw out misconception
+#### Draw out misconception
 
 https://www.youtube.com/watch?v=eVtCO84MDj8 puncturing misconceptions. How can we translate that to coding
 
@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=GEmuEWjHr5c - Teacher should guide the social pr
 Unless they get hopelessly stuck, your student should drive the keyboard as much as humanly possible. Yes, this may mean painstakingly spelling aloud commands for them to type into the Terminal and that’s OK! They’ll still learn more than if you just do it for them." https://www.codementor.io/@npostolovski/how-to-teach-programming-pvgpdtoed
 
 
-### Know problem solving strategies
+### Problem solving strategies
 - Formalization
 - Decomposing a problem into sub-problems
 - Abstraction
@@ -52,7 +52,7 @@ Any good articles??
 Develop homework with varying degrees of scafolding - https://medium.com/luceresearchlab/what-should-cs-teachers-study-2c58a60ed12f
 
 
-### Know different informatics teaching approaches
+### Informatics teaching approaches
 
 And when to use them. What is their pros and cons
 
@@ -106,19 +106,13 @@ As part of the teacher learning path you will be giving feedback to two other te
 
 [Feedback instructions](feedback.md)
 
-### Know students different learning styles
+### Learning styles
 
 - Analogists. These learners love analogies that relate programming concepts to real-world concepts they’re already familiar with. When I was first learning programming, it was helpful to think of a variable as being like a box with a name written on it. Similarly, it was helpful for me to think of methods/functions as recipes. For some learners a well-chosen analogy will help a concept to click almost immediately. Other learners will find talk of ‘boxes’ and ‘recipes’ incredibly confusing! Those learners fall into one of the two other styles. How to identify analogists: they’ll come up with their own analogies to explain things.
 - Deep Divers. Some learners have an insatiable need to peek beneath the layers of abstraction and truly understand how things work. When introduced to the concept of variables, their first question will often be: how and where is the value of a variable stored? Hand-waving explanations simply won’t cut it for these learners. You’ll find that they regularly test your own computer science knowledge. If you don’t know the answer to one of their questions, take the time to research it. This will make you a better programmer. How to identify Deep Divers: they’ll ask lots of challenging questions. 
 - Experimenters. Some learners want you to stop talking and let them try it out for themselves! They’ll learn about variables by testing things out on the command line, assigning and re-assigning variables, giving them weird names, and testing the limits of the system until they break. For these learners, an error message is a rewarding sign that they’ve learned one of the boundaries of the system. These students flourish when you give them the tools to experiment and get out of the way. How to identify experimenters: they start experimenting with a new concept before you’ve even finished explaining it to them.
 
-## Good questions to ask
-- Good questions to ask Is there anything we’ve covered that you feel you don’t understand as well as you need? 
-- Is there anything we’ve covered where you don’t see why it is important or useful? 
-- Do you feel like what we’re working on now is helping you progress toward your goals? 
-- Is there anything we haven’t covered that you’d like to learn about?
-- How is the pacing for you? Too fast? Too slow? Just right?
 
-https://www.codementor.io/@npostolovski/how-to-teach-programming-pvgpdtoed
+
 
 
