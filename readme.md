@@ -36,17 +36,6 @@ This is linked with greater student performance
 
 
 
-### Guide the students in their learning process
-
-Dont only teach a class. Let them work with exercises
-
-https://www.youtube.com/watch?v=GEmuEWjHr5c - Teacher should guide the social process of learning. inspire, challenge and excite. Not so much static teaching, more examples, exercises and misconception busting
-
-"Learners make little progress when they’re watching your fingers dance over the keyboard, writing code and executing commands at what seems like impossible speed. They’ll quickly slip into a passive mode, watching things happen without truly understanding.
-
-Unless they get hopelessly stuck, your student should drive the keyboard as much as humanly possible. Yes, this may mean painstakingly spelling aloud commands for them to type into the Terminal and that’s OK! They’ll still learn more than if you just do it for them." https://www.codementor.io/@npostolovski/how-to-teach-programming-pvgpdtoed
-
-
 ### Developing homework
 Develop homework with varying degrees of scafolding - https://medium.com/luceresearchlab/what-should-cs-teachers-study-2c58a60ed12f
 
@@ -63,7 +52,6 @@ Live coding is not so much about the solution but about the process.
 - https://www.youtube.com/watch?v=buFRgtzfmiw general about live coding
 - https://www.youtube.com/watch?v=ChLu2KfIAk4Slowing down when there are mistakes
 - https://www.youtube.com/watch?v=eVtCO84MDj8 Problem with live coding: Will they actually learn from passively watching live coding? 
-
 
 
 "The solution seems to be to get the students to make a prediction before the demo." What happens when i run this function. What happens if i say type of to this thing. Make it interactive. https://academiccomputing.wordpress.com/2012/07/09/science-education-research/
@@ -90,11 +78,29 @@ https://www.youtube.com/watch?v=Rixx-Qtnt5I
 
 
 ### Develop and execute lesson-plan
-Preparation: https://files.eric.ed.gov/fulltext/ED566953.pdf
 
-Develop a lesson-plan with exercises and code that should be written in class.
+**Learning goals**
+- Learn how to develop a lesson-plan
+- Evaluate the lesson-plan
 
-Execute the lesson-plan and reflect on how it went.
+**Preparation**
+- https://files.eric.ed.gov/fulltext/ED566953.pdf
+- https://www.youtube.com/watch?v=GEmuEWjHr5c
+- https://www.codementor.io/@npostolovski/how-to-teach-programming-pvgpdtoed#setting-up-the-teaching-environment
+
+**Exercises**
+
+1. Using some of the techniques in [Informatics teaching approaches](#informatics-teaching-approaches) develop a full lesson-plan for a class you are teaching
+- After class reflect on how the lesson-plan worked out
+ - What went well?
+ - What could have been improved?
+ - What in the lesson-plan would you change for next time?
+ - Is there something that the next mentor would benefit from knowing?
+
+
+#### Guide the students in their learning process
+
+Dont only teach a class. Let them work with exercises
 
 
 ### Evaluation of a taught class
