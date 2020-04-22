@@ -34,8 +34,6 @@ This is linked with greater student performance
 3. Create examples and questions that visualize the students misconceptions regarding promises.
 
 
-
-
 ### Developing homework
 Develop homework with varying degrees of scafolding - https://medium.com/luceresearchlab/what-should-cs-teachers-study-2c58a60ed12f
 
