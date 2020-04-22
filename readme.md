@@ -18,7 +18,7 @@ This is linked with greater student performance
 - Access a class from their homework
 - Draw out misconceptions
 
-[Assess class performance content](assess-class-performance.md)
+[Assess class performance content](modules/assess-class-performance.md)
 
 ### Developing homework
 Develop homework with varying degrees of scafolding - https://medium.com/luceresearchlab/what-should-cs-teachers-study-2c58a60ed12f
