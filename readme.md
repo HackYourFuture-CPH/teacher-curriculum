@@ -106,13 +106,37 @@ As part of the teacher learning path you will be giving feedback to two other te
 
 [Feedback instructions](feedback.md)
 
-### Learning styles
+### Guide the students
 
+#### The Basics of Pedagogy
+- Mental models
+- Cognitive load
+- etc
+
+#### Learning styles
 - Analogists. These learners love analogies that relate programming concepts to real-world concepts they’re already familiar with. When I was first learning programming, it was helpful to think of a variable as being like a box with a name written on it. Similarly, it was helpful for me to think of methods/functions as recipes. For some learners a well-chosen analogy will help a concept to click almost immediately. Other learners will find talk of ‘boxes’ and ‘recipes’ incredibly confusing! Those learners fall into one of the two other styles. How to identify analogists: they’ll come up with their own analogies to explain things.
 - Deep Divers. Some learners have an insatiable need to peek beneath the layers of abstraction and truly understand how things work. When introduced to the concept of variables, their first question will often be: how and where is the value of a variable stored? Hand-waving explanations simply won’t cut it for these learners. You’ll find that they regularly test your own computer science knowledge. If you don’t know the answer to one of their questions, take the time to research it. This will make you a better programmer. How to identify Deep Divers: they’ll ask lots of challenging questions. 
 - Experimenters. Some learners want you to stop talking and let them try it out for themselves! They’ll learn about variables by testing things out on the command line, assigning and re-assigning variables, giving them weird names, and testing the limits of the system until they break. For these learners, an error message is a rewarding sign that they’ve learned one of the boundaries of the system. These students flourish when you give them the tools to experiment and get out of the way. How to identify experimenters: they start experimenting with a new concept before you’ve even finished explaining it to them.
 
+#### Classroom approaches
+- Cold calling https://www.quora.com/Is-it-okay-for-teachers-to-cold-call-students
+- popcorning
+- https://www.edutopia.org/blog/alternatives-to-round-robin-reading-todd-finley replace read with program
+https://www.edunators.com/articles/classroom-strategies/5-alternatives-to-traditional-hand-raising-question-answer-strategies
+- Put someone in "prison" if they ask too much. You cannot answer the next 30 minutes
+- The people needing practice is the ones not getting it in cold calling. https://looneymathconsulting.com/blog-posts/2019/02/hand-raising-cold-calling-examining-efficacy-age-old-practices - There’s something deeply objectionable about saying “You have to talk when I say you should” 
+
+Write an essay about when to use different teaching methods
+
+#### Effective mentoring
 
 
 
+
+## Notes 
+Everything could be split up in 
+- Classroom
+- After classroom
+- Before classroom
+- Mentoring students etc
 
