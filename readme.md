@@ -14,17 +14,25 @@ The curriculum does not need to be followed in a specific order but can be compl
 ### Assess class performance
 This is linked with greater student performance
 
-https://computinged.wordpress.com/2013/05/13/the-critical-part-of-pck-what-students-get-wrong/ maybe the teachers should through the homework be able to figure out what students are mostly struggling with! Coule be easily made into an exercise. First identify what this class struggles with, give the teacher 6 homeworks to look through. Now come up with a plan/worked example/live coding to help the students understand this problem
+**Learning goals**
+- Access a class from their homework
+- Draw out misconceptions
 
-Assess the class from the homework
 
-#### Draw out misconception
+**Exercises**
+1. With a bunch of 7 homeworks, identify what this class struggle with
+ - Write down a list of topics that needs to be retaught for this class
+ - Come up with a strategy to puncture these misconceptions. Live coding, worked example, peer instruction.Write everything down.
 
-https://www.youtube.com/watch?v=eVtCO84MDj8 puncturing misconceptions. How can we translate that to coding
+2. Watch this [video](https://www.youtube.com/watch?v=eVtCO84MDj8). Do you think this can be applied to teaching software? What does that mean for our teaching? 
+ 
+3. Create examples and questions that visualize the students misconceptions regarding promises.
 
-Creating examples and questions that visualize the students misconceptions
+**Preparation**
+- Read this https://computinged.wordpress.com/2013/05/13/the-critical-part-of-pck-what-students-get-wrong/
+- https://www.youtube.com/watch?v=eVtCO84MDj8 
+- Read this: `For debugging, I’m reminded of Beth Simon et al’s recent Peer Instruction work where she was deliberately constructing examples where students were likely to show a shallow or incomplete model of programming, e.g. they would have problems with loops that start at 1, or go backwards, or have less than vs less than or equal to end conditions. As I understand it, Simon et al said there was a fine art in example construction, to make sure it drew out common student misconceptions so that they could be discussed and corrected/` - https://computinged.wordpress.com/2013/05/13/the-critical-part-of-pck-what-students-get-wrong
 
-For debugging, I’m reminded of Beth Simon et al’s recent Peer Instruction work where she was deliberately constructing examples where students were likely to show a shallow or incomplete model of programming, e.g. they would have problems with loops that start at 1, or go backwards, or have less than vs less than or equal to end conditions. As I understand it, Simon et al said there was a fine art in example construction, to make sure it drew out common student misconceptions so that they could be discussed and corrected - https://computinged.wordpress.com/2013/05/13/the-critical-part-of-pck-what-students-get-wrong/
 
 ### Guide the students in their learning process
 
@@ -36,17 +44,6 @@ https://www.youtube.com/watch?v=GEmuEWjHr5c - Teacher should guide the social pr
 
 Unless they get hopelessly stuck, your student should drive the keyboard as much as humanly possible. Yes, this may mean painstakingly spelling aloud commands for them to type into the Terminal and that’s OK! They’ll still learn more than if you just do it for them." https://www.codementor.io/@npostolovski/how-to-teach-programming-pvgpdtoed
 
-
-### Problem solving strategies
-- Formalization
-- Decomposing a problem into sub-problems
-- Abstraction
-- Top-down design, bottom-up design, 
-- Gradual refinement
-- Generalization
-- Analogy
-
-Any good articles?? 
 
 ### Developing homework
 Develop homework with varying degrees of scafolding - https://medium.com/luceresearchlab/what-should-cs-teachers-study-2c58a60ed12f
@@ -139,4 +136,15 @@ Everything could be split up in
 - After classroom
 - Before classroom
 - Mentoring students etc
+
+### Problem solving strategies should this be included??
+- Formalization
+- Decomposing a problem into sub-problems
+- Abstraction
+- Top-down design, bottom-up design, 
+- Gradual refinement
+- Generalization
+- Analogy
+
+Any good articles?? 
 
