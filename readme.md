@@ -100,6 +100,11 @@ https://www.edunators.com/articles/classroom-strategies/5-alternatives-to-tradit
 
 Write an essay about when to use different teaching methods
 
+### Practical tips and tricks
+
+- Keep the time
+- Discuss how to do the next homework before class ends
+- Is there an alternative to solving homework in start of class. know exactly why you are doing it
 
 ## After the class
 
