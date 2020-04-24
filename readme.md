@@ -106,8 +106,8 @@ Write an essay about when to use different teaching methods
 
 #### Effective mentoring
 
-
-
+#### Homework review
+Present coaches with a mock student assignment. have them provide a code review
 
 ## Notes 
 Everything could be split up in 
