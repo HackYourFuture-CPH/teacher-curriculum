@@ -10,6 +10,8 @@ This repo serves as the curriculum for what the mentors should go through in ord
 
 The curriculum does not need to be followed in a specific order but can be completed when there is time
 
+SHOULD WE HAVE A CATEGORY ONLY CALLED MENTORING STUDENTS???
+
 ![Teacher curriculum overview](teacher-curriculum-overview.png)
 
 ## Students learning
