@@ -117,12 +117,6 @@ As part of the teacher learning path you will be giving feedback to two other te
 ### Homework review
 Present coaches with a mock student assignment. have them provide a code review
 
-## Notes 
-Everything could be split up in 
-- Classroom
-- After classroom
-- Before classroom
-- Mentoring students etc
 
 ### Problem solving strategies should this be included??
 - Formalization
