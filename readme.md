@@ -28,7 +28,7 @@ The curriculum does not need to be followed in a specific order but can be compl
 
 #### Effective mentoring
 
-#### Teaching the class
+### Teaching the class
 
 Dont only teach a class. Let them work with exercises
 
