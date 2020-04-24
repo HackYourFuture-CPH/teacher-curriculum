@@ -9,7 +9,8 @@ This repo serves as the curriculum for what the mentors should go through in ord
 ## Curriculum
 
 The curriculum does not need to be followed in a specific order but can be completed when there is time
- 
+
+![Teacher curriculum overview](teacher-curriculum-overview.png)
 
 ### Assess class performance
 This is linked with greater student performance
