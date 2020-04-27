@@ -59,6 +59,6 @@ Feedback from Magdalena Wojtakowska. A student at HYF that has worked as a teach
 6. Class notes/solutions/videos: 
 - Are you sure you are recording the screen and that the audio is on? Can you double check? :)
 - Do you send ss the code (from the lesson) on Slack?
-- Is is easy to use or is half of it commented out so eg. when you activate all code, it will throw errors in the console? 
+- Is it easy to use or is half of it commented out so eg. when you activate all code, it will throw errors in the console? 
 - If so, can you always rename your variables and functions so that you don't have to comment out the code inn the first place?  
-- Do you think it makes sense to discuss homework when you see that some ss have'nt handed it in? 
+- Do you think it makes sense to discuss homework when you see that some ss haven't handed it in? 
