@@ -81,6 +81,8 @@ https://www.youtube.com/watch?v=Rixx-Qtnt5I
 
 #### Flipped classroom
 
+#### Project/problem based learning
+
 ### Develop and execute lesson-plan
 
 **Learning goals**
