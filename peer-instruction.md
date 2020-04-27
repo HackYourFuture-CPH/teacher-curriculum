@@ -11,6 +11,7 @@ If you really want to go deep read [this](https://www.lifescied.org/doi/10.1187/
 
 ## Exercises
 
+1. Why do you think peer instruction has been shown increase learning?
 1. When would you use peer instructed learning? When would you not?
-2. Plan and execute a peer instruction session with a class you are teaching. Describe the process. FX what concept did you teach, what concept question did you ask, what were the possible answers.
-3. What went well, what did not go so well. Would you do it again?
+1. Plan and execute a peer instruction session with a class you are teaching. Describe the process. FX what concept did you teach, what concept question did you ask, what were the possible answers.
+1. What went well, what did not go so well. Would you do it again?
