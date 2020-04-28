@@ -1,7 +1,8 @@
 # Develop and execute lesson-plan
 
 **Learning goals**
-- Learn how to develop a lesson-plan
+- Learn to scope learning objectives to fit within your students' levels and the lesson length
+- Learn how to develop a lesson-plan based on your learning objectives
 - Evaluate the lesson-plan
 
 **Lesson Schedule**
