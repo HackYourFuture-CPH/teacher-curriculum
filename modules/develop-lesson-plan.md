@@ -4,6 +4,11 @@
 - Learn how to develop a lesson-plan
 - Evaluate the lesson-plan
 
+**Lesson Schedule**
+* Motivate, isolate, practice, integrate:
+  * [the original paper](https://dl.acm.org/doi/pdf/10.1145/2674683.2674690) (the talk about paradigms is not relevant right now)
+  * a lesson plan based on this pattern - [async programming week 1](https://hackyourfuture.be/asynchronous-programming/week-1/#/)
+
 **Preparation**
 - https://files.eric.ed.gov/fulltext/ED566953.pdf
 - https://www.youtube.com/watch?v=GEmuEWjHr5c
