@@ -82,10 +82,16 @@ what are common student mistakes and misconceptions for the subject you're teach
 
 ### Flipped classroom
 
+#### Preparation
 - Read these two articles about flipped classroom [1](https://elearning.dtu.dk/TEACH/Flipped-Classroom) and [2](https://www.panopto.com/blog/what-is-a-flipped-classroom/)
-- What [this video](https://www.youtube.com/watch?v=g1MKpyVPilI) and [this video]([this video](https://www.youtube.com/watch?v=MI8XqRDB8v4) about what if sutdents dont watch the videos
--
+- Watch [this video](https://www.youtube.com/watch?v=g1MKpyVPilI) and [this video](https://www.youtube.com/watch?v=MI8XqRDB8v4) about what if sutdents dont watch the videos
 
+#### Exercise
+- When do you think it makes sense to use flipped classroom? What are the pros and cons?
+- Prepare flipped classroom for a specific topic. The preparation should include
+  - Online lecture - could be uploaded to youtube
+  - Class work. What should be done in the class? Discussion, exercise, homework? Up to you. Write a plan for what should be done in the class
+  
 
 ### Peer instruction
 
