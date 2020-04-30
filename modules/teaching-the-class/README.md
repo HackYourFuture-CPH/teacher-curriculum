@@ -9,6 +9,7 @@ Welcome!  come learn some practical tips for leading class at HYF.  Take a look 
   - [Teaching Programming](#teaching-programming)
   - [Teaching Programming at HYF](#teaching-programming-at-hyf)
 - [Key Concepts](#key-concepts)
+  - (should these be files or sections?)
   - [Lesson Plan Specs](#lesson-plan-specs)
   - [Classroom Culture](#classroom-culture)
   - [Preparing for Class](#preparing-for-class)
@@ -81,9 +82,34 @@ what are common student mistakes and misconceptions for the subject you're teach
 
 ### Flipped classroom
 
+- Read these two articles about flipped classroom [1](https://elearning.dtu.dk/TEACH/Flipped-Classroom) and [2](https://www.panopto.com/blog/what-is-a-flipped-classroom/)
+- What [this video](https://www.youtube.com/watch?v=g1MKpyVPilI) and [this video]([this video](https://www.youtube.com/watch?v=MI8XqRDB8v4) about what if sutdents dont watch the videos
+-
+
 
 ### Peer instruction
+
+- Watch [this video](https://www.youtube.com/watch?v=Z9orbxoRofI7) giving some context peer instructed learning
+- Read [this article](https://elearning.dtu.dk/TEACH/Peer-Instruction) on how to set up peer instructed learning
+- Watch [this video](https://www.youtube.com/watch?v=fiD4YBr8F4o) also about what peer instructed learning is
+- Read [this article](https://www.rit.edu/academicaffairs/tls/sites/rit.edu.academicaffairs.tls/files/docs/te-peerinstruct-concept.pdf) about creating a good concept question
+- A little about [pdf](https://www.rit.edu/academicaffairs/tls/sites/rit.edu.academicaffairs.tls/files/docs/te-peerinstruct-facilitate.pdf) about facilitating peer review
+
+If you really want to go deep read [this](https://www.lifescied.org/doi/10.1187/cbe.14-11-0198) (takes about 5 minutes to skim)
+
+__Discussion Questions__
+
+1. Why do you think peer instruction has been shown increase learning?
+1. When would you use peer instructed learning? When would you not?
+1. Plan and execute a peer instruction session with a class you are teaching. Describe the process. Fx what concept did you teach, what concept question did you ask, what were the possible answers.
+1. What went well, what did not go so well. Would you do it again?
+
+
 ### Pair programming
+
+- Read about the benefits of pair programming [here](https://meetedison.com/pair-programming-in-education/)
+- What [this video]( https://youtu.be/TWj78n4ZuMY) about some tips for pair porgramming
+
 
 these things don't just happen. set it up to help them!
 

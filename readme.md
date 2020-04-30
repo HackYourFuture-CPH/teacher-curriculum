@@ -16,6 +16,22 @@ SHOULD WE HAVE A CATEGORY ONLY CALLED MENTORING STUDENTS???
 
 ![Teacher curriculum overview](teacher-curriculum-overview.png)
 
+### Contents
+
+- (full contents tbd)
+- [The Modules]()
+  - [Teaching the Class]()
+  - [Creating Study Materials]()
+  - [Being a Mentor]()
+- [Practical Info]()
+  - ["Enrolling" in this course]()
+  - [Submitting assignments]()
+  - [Feedbacking assignments]()
+
+
+
+---
+
 ## Students learning
 
 ### The Basics of Pedagogy
