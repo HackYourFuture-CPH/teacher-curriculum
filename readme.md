@@ -66,16 +66,7 @@ I completely agree — live coding is more about process as it is outcome, and w
 It might be worth to encourage to prepare mini presentations in groups before each lesson but that might not work as I know how hard it to synchronize schedules. Ideally, I'd love to read about a concept, discuss it with someone from my group before the class and present it during the lesson while getting live feedback from the mentors. That would strip naked all the chaos that is generated in our heads when we think we understand but we really don't :wink: - Magdalena Wojtakowska
 
 #### Peer instruction
-- Mini-lecture 5 min
-- Question
-- Think. Write down answer yourself
-- Response 1 with class
-- Discuss with group
-- Response 2
-- Explain
-- Concept step
-
-https://www.youtube.com/watch?v=Rixx-Qtnt5I
+[Details here](modules/peer-instruction.md)
 
 #### Pair programming
 
