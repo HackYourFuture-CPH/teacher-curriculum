@@ -69,7 +69,7 @@ It might be worth to encourage to prepare mini presentations in groups before ea
 [Details here](modules/peer-instruction.md)
 
 #### Pair programming
-
+[Details here](modules/pair-programming.md)
 
 #### Worked examples
 
