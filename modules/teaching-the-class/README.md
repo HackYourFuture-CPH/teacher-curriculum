@@ -31,16 +31,16 @@ Welcome!  come learn some practical tips for leading class at HYF.  Take a look 
 
 ### Teaching
 
-
-
+- PCK
 - Misconceptions
 
 ### Teaching Programming
 
 
-
 ### Teaching Programming at HYF
 
+
+- it helps to think of HYF as a self-study course with some extra help, instead of as a taught course with more self-study
 
 
 ----
