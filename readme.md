@@ -6,11 +6,13 @@ Therefore we have made a learning path for our mentors to become better teachers
 
 This repo serves as the curriculum for what the mentors should go through in order to become a certified HackYourFuture teacher™
 
+
 ## Curriculum
 
 The curriculum does not need to be followed in a specific order but can be completed when there is time
 
 SHOULD WE HAVE A CATEGORY ONLY CALLED MENTORING STUDENTS???
+- by mentoring you mean longer-term support of individual students? this could be a separate module
 
 ![Teacher curriculum overview](teacher-curriculum-overview.png)
 
@@ -32,84 +34,10 @@ SHOULD WE HAVE A CATEGORY ONLY CALLED MENTORING STUDENTS???
 
 ## Teaching the class
 
-Dont only teach a class. Let them work with exercises
-* [Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI)
+[module folder](./modules/teaching-the-class)
 
-### Assess class performance
-This is linked with greater student performance
+How to write a lesson plan, teach a class, and measure your success.
 
-**Learning goals**
-- Access a class from their homework
-- Draw out misconceptions
-
-[Assess class performance content](modules/assess-class-performance.md)
-
-### Informatics teaching approaches
-
-And when to use them. What is their pros and cons
-
-#### Live coding
-
-Live coding is not so much about the solution but about the process.
-
-##### Preparation
-- https://www.youtube.com/watch?v=buFRgtzfmiw general about live coding
-- https://www.youtube.com/watch?v=ChLu2KfIAk4Slowing down when there are mistakes
-- https://www.youtube.com/watch?v=eVtCO84MDj8 Problem with live coding: Will they actually learn from passively watching live coding?
-
-
-"The solution seems to be to get the students to make a prediction before the demo." What happens when i run this function. What happens if i say type of to this thing. Make it interactive. https://academiccomputing.wordpress.com/2012/07/09/science-education-research/
-
-I completely agree — live coding is more about process as it is outcome, and we *absolutely* should run the experiments to see what would happen. We can’t just assume that physics maps to CS. But I’d bet that the condition where you get students to predict what’s going to happen when you run the program, before running the program, would still have more learning value than just running the program. The work on self-explanations (e.g., Van Lehn, Chi, Pirolli) suggests that the average student doesn’t actually ask themselves, “Now, why did it work like that? How did I *think* it was going to work?” But we know that such self-explanations do students whole bunches of good with respect to learning. Prompting them to predict is likely triggering similar cognitive processes, getting them to analyze and explain a situation to themselves. - comment in this article https://academiccomputing.wordpress.com/2012/05/11/predicting-live-coding/
-
-#### Prepare a mini-presentation
-It might be worth to encourage to prepare mini presentations in groups before each lesson but that might not work as I know how hard it to synchronize schedules. Ideally, I'd love to read about a concept, discuss it with someone from my group before the class and present it during the lesson while getting live feedback from the mentors. That would strip naked all the chaos that is generated in our heads when we think we understand but we really don't :wink: - Magdalena Wojtakowska
-
-#### Peer instruction
-- Mini-lecture 5 min
-- Question
-- Think. Write down answer yourself
-- Response 1 with class
-- Discuss with group
-- Response 2
-- Explain
-- Concept step
-
-https://www.youtube.com/watch?v=Rixx-Qtnt5I
-
-#### Pair programming
-
-
-#### Worked examples
-
-#### Flipped classroom
-
-#### Project/problem based learning
-
-### Develop and execute lesson-plan
-
-**Learning goals**
-- Learn how to develop a lesson-plan
-- Evaluate the lesson-plan
-
-[Develop and execute lesson-plan content](modules/develop-lesson-plan.md)
-
-
-### Classroom approaches
-- Cold calling https://www.quora.com/Is-it-okay-for-teachers-to-cold-call-students
-- popcorning
-- https://www.edutopia.org/blog/alternatives-to-round-robin-reading-todd-finley replace read with program
-https://www.edunators.com/articles/classroom-strategies/5-alternatives-to-traditional-hand-raising-question-answer-strategies
-- Put someone in "prison" if they ask too much. You cannot answer the next 30 minutes
-- The people needing practice is the ones not getting it in cold calling. https://looneymathconsulting.com/blog-posts/2019/02/hand-raising-cold-calling-examining-efficacy-age-old-practices - There’s something deeply objectionable about saying “You have to talk when I say you should”
-
-Write an essay about when to use different teaching methods
-
-### Practical tips and tricks
-
-- Keep the time
-- Discuss how to do the next homework before class ends
-- Is there an alternative to solving homework in start of class. know exactly why you are doing it
 
 ## After the class
 
