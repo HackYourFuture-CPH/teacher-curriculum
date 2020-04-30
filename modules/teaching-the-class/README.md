@@ -157,10 +157,8 @@ this doesn't just happen!  time you spend
 ## Assess class performance
 This is linked with greater student performance
 
-### Pair programming
-
-
 ### Worked examples
+
 ### Informatics teaching approaches
 
 And when to use them. What is their pros and cons
