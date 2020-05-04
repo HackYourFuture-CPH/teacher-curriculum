@@ -57,11 +57,17 @@ At the end of each learning path is a main project integrating everything you pr
 
 ---
 
-## Joining for Reals
+## Joining Us
 
 Do you like learning together?  Looking to share your experience with other coaches?  Get in touch with us and we can invite you as a contributor to our _teacher-training_ repository.
 
 There you can track your progress through the learning paths on the repository project boards, give and receive feedback, and find others' interested in learning the same skills.
+
+---
+
+## Workshops
+
+Schedules, slide shows, materials, and guides for running your own in-person workshops.
 
 ---
 ---
