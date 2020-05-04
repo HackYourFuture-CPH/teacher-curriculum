@@ -1,6 +1,5 @@
-- [Introduction](./README.md)
 - [Learning Paths](./learning-paths/README.md)
-  - [Template Module](./learning-paths/template-learning-path.md)
+  - [Template Learning Path](./learning-paths/template-learning-path.md)
   - [Teaching the Class]()
   - [Creating Study Materials]()
   - [Being a Mentor]()
