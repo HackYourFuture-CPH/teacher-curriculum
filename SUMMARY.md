@@ -1,10 +1,5 @@
 # Teacher Curriculum
 
-- [Learning Paths](./learning-paths/README.md)
-  - [Template Learning Path](./learning-paths/template-learning-path.md)
-  - [Teaching the Class]()
-  - [Creating Study Materials]()
-  - [Being a Mentor]()
 - [Topics](./topics/README.md)
   - [Template Topic](./topics/template-topic.md)
   - [flipping the class]()
@@ -12,6 +7,11 @@
   - [worked examples]()
   - [learning styles]()
   - [...]()
+- [Learning Paths](./learning-paths/README.md)
+  - [Template Learning Path](./learning-paths/template-learning-path.md)
+  - [Teaching the Class]()
+  - [Creating Study Materials]()
+  - [Being a Mentor]()
 - [Exercises](./exercises/README.md)
   - [Template Exercise](./exercises/template-exercise.md)
 - [Practical Stuff](./practical-stuff/README.md)
