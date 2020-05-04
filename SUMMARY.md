@@ -1,3 +1,5 @@
+# Teacher Curriculum
+
 - [Learning Paths](./learning-paths/README.md)
   - [Template Learning Path](./learning-paths/template-learning-path.md)
   - [Teaching the Class]()
