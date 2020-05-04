@@ -67,7 +67,8 @@ There you can track your progress through the learning paths on the repository p
 
 ## Workshops
 
-Schedules, slide shows, materials, and guides for running your own in-person workshops.
+Schedules, slide shows, materials, and guides for running your own in-person workshops using the materials in this repo.
+
 
 ---
 ---
