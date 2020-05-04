@@ -23,7 +23,7 @@
   - [Submitting assignments]()
   - [Feedbacking assignments]()
 - [Workshops](./workshops/README.md)
-  - [Template Workshop](./workshops/template-workshop.md)
+  - [Template Workshop](./workshops/template-workshop/README.md)
   - [workshop 2]()
   - [workshop 3]()
 - [Code of Conduct](./CODE-OF-CONDUCT.md)
