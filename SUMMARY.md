@@ -2,7 +2,7 @@
 
 - [Topics](./topics/README.md)
   - [Template Topic](./topics/template-topic.md)
-  - [flipping the class]()
+  - [Flipped classroom](./topics/flipped-classroom.md)
   - [peer instruction]()
   - [worked examples]()
   - [learning styles]()
