@@ -10,6 +10,8 @@
 - [Exercises](./exercises/README.md)
   - [Template Exercise](./exercises/template-exercise.md)
   - [Flipped classroom](./exercises/flipped-classroom.md)
+  - [Pair porgramming](./exercises/pair-programming.md)
+  - [Asking questions](./exercises/asking-questions.md)
   - [Evaluating a Class]()
   - [Evaluating a Lesson Plan]()
   - [Writing Worked Examples]()
