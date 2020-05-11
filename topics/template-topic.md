@@ -14,7 +14,7 @@ findings & tricks/tips to integrate Topic with programming education
 
 specific things we've tried that worked/didn't work. particularities to our context
 
-## References
+## Preparation
 
 currated links to learn about Topic
 
