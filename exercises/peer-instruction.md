@@ -23,7 +23,5 @@ Peer instruction is an interactive teaching method in which students discuss und
 3. Plan and execute a peer instruction session with a class you are teaching. Describe the process. Fx what concept did you teach, what concept question did you ask, what were the possible answers.
 4. What went well, what did not go so well. Would you do it again?
 
-
-
 ## Learning Paths
 
