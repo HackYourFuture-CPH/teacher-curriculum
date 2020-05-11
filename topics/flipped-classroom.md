@@ -12,4 +12,4 @@ Flipped classroom is a way to teach a class where students before class has watc
 
 ## Paths & Exercises
 
-- [Exercise](../exercises/flipped-classroom.md)
+- [Exercise](./../exercises/flipped-classroom.md)
