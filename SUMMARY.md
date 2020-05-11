@@ -3,6 +3,8 @@
 - [Topics](./topics/README.md)
   - [Template Topic](./topics/template-topic.md)
   - [Flipped classroom](./topics/flipped-classroom.md)
+  - [Pair porgramming](./topics/pair-programming.md)
+  - [Asking questions](./topics/asking-questions.md)
   - [peer instruction]()
   - [worked examples]()
   - [learning styles]()
