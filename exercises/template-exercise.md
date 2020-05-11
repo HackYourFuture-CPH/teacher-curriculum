@@ -2,11 +2,12 @@
 
 intro to this exercise
 
-- [learning objectives](#learning-objectives)
-- [details](#details)
-- [assessment criteria](#assessment-criteria)
-- [Related Topics](#related-topics)
-- [Learning Paths](#learning-paths)
+- [Template Exercise](#template-exercise)
+  - [Learning objectives](#learning-objectives)
+  - [Exercises](#exercises)
+  - [Assessment Criteria](#assessment-criteria)
+  - [Related Topics](#related-topics)
+  - [Learning Paths](#learning-paths)
 
 ---
 
@@ -21,7 +22,7 @@ desctiption what you should be able to do after completing this exercise
 
 ---
 
-## Details
+## Exercises
 
 more info about what you need to do.
 
