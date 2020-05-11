@@ -9,6 +9,7 @@
   - [...]()
 - [Exercises](./exercises/README.md)
   - [Template Exercise](./exercises/template-exercise.md)
+  - [Flipped classroom](./exercises/flipped-classroom.md)
   - [Evaluating a Class]()
   - [Evaluating a Lesson Plan]()
   - [Writing Worked Examples]()
