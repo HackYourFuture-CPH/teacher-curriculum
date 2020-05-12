@@ -6,8 +6,8 @@ description
 - [Getting Started](#getting-started)
 - [Study Guide](#study-guide)
   - [Template Topic](#template-topic)
-  - [Topic 2](#topic-2)
-  - [Topic 3](#topic-3)
+  - [How students/people learn](#how-studentspeople-learn)
+  - [Motivating students](#motivating-students)
 - [Exercises](#exercises)
   - [Template Exercise](#template-exercise)
   - [Exercise 2](#exercise-2)
@@ -41,9 +41,9 @@ a guide to which topics are helpful for this learning path
 - tips and tricks for applying this topic to these exercises
 
 
-### Topic 2
+### How students/people learn
 
-### Topic 3
+### Motivating students
 
 ---
 

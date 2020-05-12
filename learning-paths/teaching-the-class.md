@@ -6,6 +6,9 @@ This learning path is about learning teachniques for teaching the class.
 - [Getting Started](#getting-started)
 - [Study Guide](#study-guide)
   - [Teaching approaches](#teaching-approaches)
+  - [Asking questions](#asking-questions)
+  - [Develop and execute lesson-plan](#develop-and-execute-lesson-plan)
+  - [Creating a social class](#creating-a-social-class)
 
 ---
 
@@ -25,4 +28,10 @@ A guide to which topics are helpful for this learning path
 - [Flipped classroom](./../topics/flipped-classroom.md)
 - [Peer instruction](./../topics/peer-instruction.md)
 - [Pair programming](./../topics/pair-programming.md)
+- Problem based learning
 
+### Asking questions
+
+### Develop and execute lesson-plan
+
+### Creating a social class

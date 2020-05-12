@@ -23,7 +23,7 @@
   - [Teaching the Class](./learning-paths/teaching-the-class.md)
   - [Creating Study Materials]()
   - [Being a Mentor]()
-  - [Learning about learning](./learning-paths/learning-about-learning.md)
+  - [Groundwork for student learning](./learning-paths/groundwork-for-student-learning.md)
 - [Join Us](./join-us/README.md)
   - ["Enrolling" in this course]()
   - [Submitting assignments]()
