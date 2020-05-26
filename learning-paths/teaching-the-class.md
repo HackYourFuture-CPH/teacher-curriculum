@@ -33,6 +33,7 @@ A guide to which topics are helpful for this learning path
 - [Live coding](./../topics/live-coding.md)
 
 ### Asking questions
+- [Asking questions](./../topics/asking-questions.md)
 
 ### Develop and execute lesson-plan
 - [Develop lesson plan](./../topics/develop-and-execute-lesson-plan.md)
