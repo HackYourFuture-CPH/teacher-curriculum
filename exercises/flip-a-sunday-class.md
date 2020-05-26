@@ -1,4 +1,4 @@
-# Flipped classroom exercise
+# Filp a Sunday Class
 
 This exercise is made in order to get some handson experience with flipped classroom
 
