@@ -12,7 +12,7 @@ Flipped classroom is a way to teach a class where students before class has watc
 
 ## Exercises
 
-- [Create prep work for a Sunday class](./../exercises/flipped-classroom.md)
+- [Flip a Sunday Class](./../exercises/flip-a-sunday-class.md)
 
 ## Learning Paths
 
