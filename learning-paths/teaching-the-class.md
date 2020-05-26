@@ -9,6 +9,7 @@ This learning path is about learning teachniques for teaching the class.
   - [Asking questions](#asking-questions)
   - [Develop and execute lesson-plan](#develop-and-execute-lesson-plan)
   - [Creating a social class](#creating-a-social-class)
+  - [Assessing class performance](#assessing-class-performance)
 
 ---
 
@@ -28,10 +29,15 @@ A guide to which topics are helpful for this learning path
 - [Flipped classroom](./../topics/flipped-classroom.md)
 - [Peer instruction](./../topics/peer-instruction.md)
 - [Pair programming](./../topics/pair-programming.md)
-- Problem based learning
+- [Problem based learning](./../topics/problem-based-learning.md)
+- [Live coding](./../topics/live-coding.md)
 
 ### Asking questions
 
 ### Develop and execute lesson-plan
+- [Develop lesson plan](./../topics/develop-and-execute-lesson-plan.md)
 
 ### Creating a social class
+
+### Assessing class performance
+- [Assessing class performance](./../topics/assessing-class-performance.md)

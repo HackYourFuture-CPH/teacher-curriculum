@@ -4,24 +4,29 @@ Welcome!  come learn some practical tips for leading class at HYF.  Take a look 
 
 ### Contents
 
-- [Getting Started](#getting-started)
-  - [Teaching](#teaching)
-  - [Teaching Programming](#teaching-programming)
-  - [Teaching Programming at HYF](#teaching-programming-at-hyf)
-- [Key Concepts](#key-concepts)
-  - (should these be files or sections?)
-  - [Lesson Plan Specs](#lesson-plan-specs)
+- [Teaching the class](#teaching-the-class)
+    - [Contents](#contents)
+  - [Getting Started](#getting-started)
+    - [Teaching](#teaching)
+    - [Teaching Programming](#teaching-programming)
+    - [Teaching Programming at HYF](#teaching-programming-at-hyf)
+  - [Key Concepts](#key-concepts)
+    - [Lesson Plan "Specs"](#lesson-plan-specs)
   - [Classroom Culture](#classroom-culture)
-  - [Preparing for Class](#preparing-for-class)
-  - [Communicating the Goals](#communicating-the-goals)
-  - [Classroom Approach](#classroom-approach)
-  - [Assessment Techniques](#assessment-techniques)
-  - [Lesson Plan Revision](#lesson-plan-revision)
-- [Assignments](#assignments)
-  1. [prepare to teach an existing lesson plan](#prepare-to-teach-an-existing-lesson-plan)
-  1. write a lesson plan from spec
-  1. write your own lesson plan specs
-  1. evaluate existing lesson plans
+  - [Preparing for class](#preparing-for-class)
+    - [Misconceptions](#misconceptions)
+    - [Worked examples](#worked-examples)
+    - [Flipped classroom](#flipped-classroom)
+      - [Preparation](#preparation)
+      - [Exercise](#exercise)
+    - [Peer instruction](#peer-instruction)
+    - [Pair programming](#pair-programming)
+    - [Communicating the goals](#communicating-the-goals)
+    - [Practical tips and tricks](#practical-tips-and-tricks)
+  - [Student follow-up](#student-follow-up)
+    - [Students prepare a mini-presentation](#students-prepare-a-mini-presentation)
+  - [Assignments](#assignments)
+    - [Prepare to teach an existing lesson plan](#prepare-to-teach-an-existing-lesson-plan)
 
 
 ---
@@ -122,63 +127,6 @@ these things don't just happen. set it up to help them!
 ### Communicating the goals
 
 
-## classroom approach
-
-- Cold calling https://www.quora.com/Is-it-okay-for-teachers-to-cold-call-students
-- popcorning
-- https://www.edutopia.org/blog/alternatives-to-round-robin-reading-todd-finley replace read with program
-https://www.edunators.com/articles/classroom-strategies/5-alternatives-to-traditional-hand-raising-question-answer-strategies
-- Put someone in "prison" if they ask too much. You cannot answer the next 30 minutes
-- The people needing practice is the ones not getting it in cold calling. https://looneymathconsulting.com/blog-posts/2019/02/hand-raising-cold-calling-examining-efficacy-age-old-practices - There’s something deeply objectionable about saying “You have to talk when I say you should”
-
-Write an essay about when to use different teaching methods
-
-https://teachertraining.codeyourfuture.io/content/the-classroom-1
-
-### Peer instruction
-
-this doesn't just happen!  time you spend
-
-- [Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI)
-- julie schell (practical tips) - https://www.youtube.com/watch?v=Rixx-Qtnt5I
-  - 7 steps. strictly following this is a bit much to ask for hyf
-
-- Mini-lecture 5 min
-- Question
-- Think. Write down answer yourself
-- Response 1 with class
-- Discuss with group
-- Response 2
-- Explain
-- Concept step
-
-### Draw out misconceptions
-
-## Assess class performance
-This is linked with greater student performance
-
-### Worked examples
-
-### Informatics teaching approaches
-
-And when to use them. What is their pros and cons
-
-### Project/problem based learning
-
-applied projects can be very helpful for students, but that's not guarenteed.  Without the proper support project based learning can slow down or even hamper learning in the long run.  Especially at HYF where students spend most of their study time alone with out the guidance of a coach or peers, there is a good chance that an open-ended project-based learning approach is not going to work very well.
-
-simple things you can do to help students learn the most from projects are:
-
-
-### Live coding
-
-Live coding is not so much about the solution but about the process.
-
-"The solution seems to be to get the students to make a prediction before the demo." What happens when i run this function. What happens if i say type of to this thing. Make it interactive. https://academiccomputing.wordpress.com/2012/07/09/science-education-research/
-
-I completely agree — live coding is more about process as it is outcome, and we *absolutely- should run the experiments to see what would happen. We can’t just assume that physics maps to CS. But I’d bet that the condition where you get students to predict what’s going to happen when you run the program, before running the program, would still have more learning value than just running the program. The work on self-explanations (e.g., Van Lehn, Chi, Pirolli) suggests that the average student doesn’t actually ask themselves, “Now, why did it work like that? How did I *think- it was going to work?” But we know that such self-explanations do students whole bunches of good with respect to learning. Prompting them to predict is likely triggering similar cognitive processes, getting them to analyze and explain a situation to themselves. - comment in this article https://academiccomputing.wordpress.com/2012/05/11/predicting-live-coding/
-
-
 ### Practical tips and tricks
 
 - Keep the time
@@ -186,8 +134,6 @@ I completely agree — live coding is more about process as it is outcome, and w
 - Is there an alternative to solving homework in start of class. know exactly why you are doing it
 
 ## Student follow-up
-
-### Assess class performance
 
 
 ### Students prepare a mini-presentation

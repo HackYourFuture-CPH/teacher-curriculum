@@ -1,6 +1,5 @@
 # Asking questions in class
 
-
 Asking questions in class is a huge part of making a class interactive. But asking questions, as simple as it sounds can be a bit more complex than just selecting some students to answer
 
 ## Topic Applied
