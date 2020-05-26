@@ -20,8 +20,10 @@ This exercise is made in order to get some handson experience with flipped class
 ## Exercise
 
 - When do you think it makes sense to use flipped classroom? What are the pros and cons?
-- Prepare flipped classroom for a specific topic. The preparation should include
+- Prepare flipped classroom for an existing HYF Sunday. The preparation should include
+  - Clearly outline what students should _know_ class, and what they will _do_ in class
   - Online lecture - could be uploaded to youtube
+  - Preparation exercises & code examples
   - Class work. What should be done in the class? Discussion, exercise, homework? Up to you. Write a plan for what should be done in the class
 
 ---
