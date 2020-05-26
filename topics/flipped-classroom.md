@@ -10,6 +10,10 @@ Flipped classroom is a way to teach a class where students before class has watc
 - [What if students dont watch videos? Part two](https://www.youtube.com/watch?v=g1MKpyVPilI)
 
 
-## Paths & Exercises
+## Exercises
 
-- [Exercise](./../exercises/flipped-classroom.md)
+- [Create prep work for a Sunday class](./../exercises/flipped-classroom.md)
+
+## Learning Paths
+
+- [Teaching the Class](../learning-paths/teaching-the-class.md)
