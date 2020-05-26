@@ -87,15 +87,22 @@ what are common student mistakes and misconceptions for the subject you're teach
 
 ### Flipped classroom
 
+mastering the HYF Sunday requires a solid understanding of flipping class.
+
+- [flipped classroom](../topics/flipped-classrom.md)
+
+<!--
 #### Preparation
 - Read these two articles about flipped classroom [1](https://elearning.dtu.dk/TEACH/Flipped-Classroom) and [2](https://www.panopto.com/blog/what-is-a-flipped-classroom/)
 - Watch [this video](https://www.youtube.com/watch?v=g1MKpyVPilI) and [this video](https://www.youtube.com/watch?v=MI8XqRDB8v4) about what if sutdents dont watch the videos
-
+-->
+<!--
 #### Exercise
 - When do you think it makes sense to use flipped classroom? What are the pros and cons?
 - Prepare flipped classroom for a specific topic. The preparation should include
   - Online lecture - could be uploaded to youtube
   - Class work. What should be done in the class? Discussion, exercise, homework? Up to you. Write a plan for what should be done in the class
+-->
   
 
 ### Peer instruction
@@ -147,6 +154,10 @@ It might be worth to encourage to prepare mini presentations in groups before ea
 ## Assignments
 
 So you think this all makes sense?  Move on to the assignments! (if this is how we do homework)  Create a new issue in the project board for your next assignment and get rolling.
+
+### Flip a Sunday Class
+
+- [the exercise is described here](../exercises/flip-a-sunday-class.md)
 
 ### Prepare to teach an existing lesson plan
 
