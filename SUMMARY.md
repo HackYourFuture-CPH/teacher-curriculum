@@ -11,7 +11,7 @@
   - [...]()
 - [Exercises](./exercises/README.md)
   - [Template Exercise](./exercises/template-exercise.md)
-  - [Flipped classroom](./exercises/flipped-classroom.md)
+  - [Flip a Sunday Class](./exercises/flip-a-sunday-class.md)
   - [Pair programming](./exercises/pair-programming.md)
   - [Asking questions](./exercises/asking-questions.md)
   - [Evaluating a Class]()
