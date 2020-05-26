@@ -17,8 +17,6 @@ Welcome!  come learn some practical tips for leading class at HYF.  Take a look 
     - [Misconceptions](#misconceptions)
     - [Worked examples](#worked-examples)
     - [Flipped classroom](#flipped-classroom)
-      - [Preparation](#preparation)
-      - [Exercise](#exercise)
     - [Peer instruction](#peer-instruction)
     - [Pair programming](#pair-programming)
     - [Communicating the goals](#communicating-the-goals)
@@ -27,6 +25,7 @@ Welcome!  come learn some practical tips for leading class at HYF.  Take a look 
     - [Students prepare a mini-presentation](#students-prepare-a-mini-presentation)
   - [Assignments](#assignments)
     - [Prepare to teach an existing lesson plan](#prepare-to-teach-an-existing-lesson-plan)
+    - [Flip a sunday class](#flip-a-sunday-class)
 
 
 ---
@@ -155,10 +154,6 @@ It might be worth to encourage to prepare mini presentations in groups before ea
 
 So you think this all makes sense?  Move on to the assignments! (if this is how we do homework)  Create a new issue in the project board for your next assignment and get rolling.
 
-### Flip a Sunday Class
-
-- [the exercise is described here](../exercises/flip-a-sunday-class.md)
-
 ### Prepare to teach an existing lesson plan
 
 > so they focus on the teaching not the tech, we should let coaches choose any lesson plan they want from the hyf course.  html/css, databases, js, ...
@@ -166,3 +161,7 @@ So you think this all makes sense?  Move on to the assignments! (if this is how 
 this assignment could be a template markdown file where coaches have to fill in their prep work and link to any resources (worked examples, videos, slides, ...) they prepared for class.
 
 A big plus of this assignment format is coaches can directly use the same template to prepare for the next module they teach.
+
+### Flip a Sunday Class
+
+- [the exercise is described here](../exercises/flip-a-sunday-class.md)
