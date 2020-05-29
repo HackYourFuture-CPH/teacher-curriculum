@@ -38,3 +38,25 @@
   * Possible points of confusion in this lesson plan
   * Write a homework assignment & assessment strategy for this lesson plan
   * Assign prep work for this lesson plan
+
+
+### Lesson Plan "Specs"
+
+> this list intentionally refers to what a student can _do_ instead of what they _know_.
+
+- What can students do before the lesson starts?
+- What are the learning objectives _for class time_?
+- What does a student need to do after the lesson?
+- What are your practical constraints?
+
+One of the most helpful things you can do for students is to be very clear about what they are expected to learn _in class_ with your guidance, and what they are expected to learn on their own afterwards.   ie. are you talking about static methods right now because you expect students to be able to use them by the end of class, or because they should know it's important for when they study at home?
+
+Being very clear about what is expected before vs. during vs. after class will help you prepare, and help students concentrate their efforts (and manage their stress ;)
+
+### Prepare to teach an existing lesson plan
+
+> so they focus on the teaching not the tech, we should let coaches choose any lesson plan they want from the hyf course.  html/css, databases, js, ...
+
+this assignment could be a template markdown file where coaches have to fill in their prep work and link to any resources (worked examples, videos, slides, ...) they prepared for class.
+
+A big plus of this assignment format is coaches can directly use the same template to prepare for the next module they teach.

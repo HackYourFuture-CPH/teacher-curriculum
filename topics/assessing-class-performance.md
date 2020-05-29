@@ -2,6 +2,12 @@
 This is linked with greater student performance
 
 
+## Misconceptions
+
+what are common student mistakes and misconceptions for the subject you're teaching?  the leanest way to figure this out is to read through old student assignments for the week.  If you have more time you can get in touch with past coaches or students to find out what concepts were hardest to grasp
+
+
+
 ## Preparation
 - Read this https://computinged.wordpress.com/2013/05/13/the-critical-part-of-pck-what-students-get-wrong/
 - https://www.youtube.com/watch?v=eVtCO84MDj8
