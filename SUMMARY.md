@@ -21,6 +21,7 @@
 - [Learning Paths](./learning-paths/README.md)
   - [Groundwork for student learning](./learning-paths/groundwork-for-student-learning.md)
   - [Teaching the Class](./learning-paths/teaching-the-class.md)
+  - [After the class](./learning-paths/after-the-class.md)
   - [Creating Study Materials]()
   - [Being a Mentor]()
   - [Template Learning Path](./learning-paths/template-learning-path.md)
