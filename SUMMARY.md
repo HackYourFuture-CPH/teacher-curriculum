@@ -1,5 +1,6 @@
 # Teacher Curriculum
 
+- [Start Here](./start-here.md)
 - [Topics](./topics/README.md)
   - [Flipped classroom](./topics/flipped-classroom.md)
   - [Pair programming](./topics/pair-programming.md)
