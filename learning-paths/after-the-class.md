@@ -5,7 +5,6 @@ This learning path is about topics related to the class outside of teaching a cl
 - [After the class](#after-the-class)
 - [Getting Started](#getting-started)
 - [Study Guide](#study-guide)
-  - [Developing homework](#developing-homework)
   - [Evaluation of a taught class](#evaluation-of-a-taught-class)
   - [Teachers feedback](#teachers-feedback)
 
@@ -22,10 +21,6 @@ This learning path will focus on learning how to develop homework, how to evalua
 ## Study Guide
 
 A guide to which topics are helpful for this learning path
-
-
-### Developing homework
-Develop homework with varying degrees of scafolding - https://medium.com/luceresearchlab/what-should-cs-teachers-study-2c58a60ed12f
 
 
 ### Evaluation of a taught class
