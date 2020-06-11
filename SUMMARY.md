@@ -6,6 +6,8 @@
   - [Pair programming](./topics/pair-programming.md)
   - [Asking questions](./topics/asking-questions.md)
   - [Lesson Plans](./topics/lesson-plans.md)
+  <!-- - [Pedagogical Content Knowledge]() -->
+  <!-- - [Student Misconceptions]() -->
   <!-- - [peer instruction]() -->
   <!-- - [worked examples]() -->
   <!-- - [learning styles]() -->
