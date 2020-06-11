@@ -21,7 +21,7 @@
   - [Groundwork for student learning](./learning-paths/groundwork-for-student-learning.md)
   <!-- - [Before the Class](./learning-paths/before-the-class.md) -->
   - [Teaching the Class](./learning-paths/teaching-the-class.md)
-  - [After the class](./learning-paths/after-the-class.md)
+  <!-- - [After the class](./learning-paths/after-the-class.md) -->
   <!-- - [Creating Study Materials]() -->
   <!-- - [Being a Mentor]() -->
 - [Workshops](./workshops/README.md)
