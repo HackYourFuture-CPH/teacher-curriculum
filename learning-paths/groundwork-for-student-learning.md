@@ -1,10 +1,9 @@
 ## Groundwork for student learning
 
-description
+This learning path will explain the basis for learning. It will go into learning styles, mental models, padegogy and much more. It is a basis for understanding how students learn, and thereby a basis for how to teach.
 
 - [Groundwork for student learning](#groundwork-for-student-learning)
 - [Study Guide](#study-guide)
-  - [How students/people learn](#how-studentspeople-learn)
   - [Student learning styles](#student-learning-styles)
   - [Motivating students](#motivating-students)
   - [The Basics of Pedagogy](#the-basics-of-pedagogy)
@@ -15,10 +14,6 @@ description
 ---
 
 ## Study Guide
-
-a guide to which topics are helpful for this learning path
-
-### How students/people learn
 
 ### Student learning styles
 - [Student learning styles](./../topics/learning-styles.md)
