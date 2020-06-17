@@ -2,7 +2,9 @@
 
 A mind can only remember/hold a specific number of things in memory at a time. Therefore we should be specific about what we teach, not overloading the mind the tasks and information it simply cannot hold in working memory.
 
-The cognitive load theory gives us guidelines to design instructions that decrease extraneous cognitive load
+The cognitive load theory gives us guidelines to design instructions that decrease extraneous cognitive load.
+
+Teachers can help students who are suffering from information overload by letting students know what are the critical elements of the information; in other words, prioritizing the information. 
 
 ## Preparation
 

@@ -58,6 +58,7 @@ A guide to which topics are helpful for this learning path
 - [Pair programming](./../topics/pair-programming.md)
 - [Problem based learning](./../topics/problem-based-learning.md)
 - [Live coding](./../topics/live-coding.md)
+<!-- Student centered learning: https://youtu.be/2N1I6sOhDiw-->
 
 ### PCK
 

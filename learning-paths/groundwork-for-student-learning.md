@@ -10,6 +10,7 @@ description
   - [The Basics of Pedagogy](#the-basics-of-pedagogy)
   - [Cognitive load](#cognitive-load)
   - [Mental models](#mental-models)
+- [Final project](#final-project)
 
 ---
 
@@ -26,14 +27,17 @@ a guide to which topics are helpful for this learning path
 - [Motivating students](./../topics/motivating-students.md)
 
 ### The Basics of Pedagogy
-
 - [Pedagogy](./../topics/pedagogy.md)
 
 ### Cognitive load
-
 - [Cognitive load](./../topics/cognitive-load.md)
 
 ### Mental models
-
 - [Mental Models](./../topics/mental-models.md)
 
+
+## Final project
+
+Using [this article](https://lo.unisa.edu.au/mod/book/tool/print/index.php?id=610988) and all the topics above, summarize the question how do students learn?
+
+With that question answered, how will you change the way you run a class in the future? Will you even change anything?
