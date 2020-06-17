@@ -11,6 +11,7 @@
   <!-- - [peer instruction]() -->
   <!-- - [worked examples]() -->
   <!-- - [learning styles]() -->
+  <!-- - [problem solving strategies]() -->
 - [Exercises](./exercises/README.md)
   - [Flip a Sunday Class](./exercises/flip-a-sunday-class.md)
   - [Pair programming](./exercises/pair-programming.md)
