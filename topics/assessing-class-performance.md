@@ -15,6 +15,10 @@ what are common student mistakes and misconceptions for the subject you're teach
 - http://teachtogether.tech/#s:pck-mistakes
 - [Mental models](https://www.youtube.com/watch?v=AbAfM7AFO3k). Like the example with sun, finding and breaking misconceptions is breaking up/chainging mental models, which is hard
 
-## Paths & Exercises
+## Exercises
 
 - [Exercise](./../exercises/flipped-classroom.md)
+
+## Learning Paths
+
+- [Teaching the class](../learning-paths/teaching-the-class.md)

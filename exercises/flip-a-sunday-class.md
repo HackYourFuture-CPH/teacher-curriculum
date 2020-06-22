@@ -2,7 +2,7 @@
 
 This exercise is made in order to get some handson experience with flipped classroom
 
-- [Flipped classroom exercise](#flipped-classroom-exercise)
+- [Filp a Sunday Class](#filp-a-sunday-class)
   - [Learning objectives](#learning-objectives)
   - [Exercise](#exercise)
   - [Learning Paths](#learning-paths)
@@ -26,8 +26,6 @@ This exercise is made in order to get some handson experience with flipped class
   - Preparation exercises & code examples
   - Class work. What should be done in the class? Discussion, exercise, homework? Up to you. Write a plan for what should be done in the class
 
----
-
 ## Learning Paths
 
-the learning paths that contain this exercise
+- [Teaching the class](../learning-paths/teaching-the-class.md)

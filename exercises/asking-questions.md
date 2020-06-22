@@ -5,6 +5,7 @@ Asking questions in class is a huge part of making a class interactive. But aski
 - [Asking questions](#asking-questions)
   - [Learning objectives](#learning-objectives)
   - [Exercises](#exercises)
+  - [Learning Paths](#learning-paths)
 
 ---
 
@@ -22,3 +23,7 @@ Asking questions in class is a huge part of making a class interactive. But aski
 - Plan and execute an alternative to cold calling in a class you are teaching
   - What kind of question did you ask?
   - How did the students get to answer the question?
+
+## Learning Paths
+
+- [Teaching the class](../learning-paths/teaching-the-class.md)

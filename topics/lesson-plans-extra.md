@@ -61,3 +61,7 @@ Being very clear about what is expected before vs. during vs. after class will h
 this assignment could be a template markdown file where coaches have to fill in their prep work and link to any resources (worked examples, videos, slides, ...) they prepared for class.
 
 A big plus of this assignment format is coaches can directly use the same template to prepare for the next module they teach.
+
+## Learning Paths
+
+- [Teaching the class](../learning-paths/teaching-the-class.md)

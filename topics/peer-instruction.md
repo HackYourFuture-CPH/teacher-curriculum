@@ -12,6 +12,10 @@ Peer instruction is an interactive teaching method in which students discuss und
 
 If you really want to go deep read [this](https://www.lifescied.org/doi/10.1187/cbe.14-11-0198) (takes about 5 minutes to skim)
 
-## Paths & Exercises
+## Exercises
 
 - [Exercise](./../exercises/peer-instruction.md)
+
+## Learning Paths
+
+- [Teaching the class](../learning-paths/teaching-the-class.md)

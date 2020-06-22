@@ -1,6 +1,8 @@
 # Flipped classroom
 
-Flipped classroom is a way to teach a class where students before class has watched a video lecture. Then in class there is a focus on exerises and homework
+Flipped classroom is a way to teach a class where students before class has watched a video lecture. Then in class there is a focus on exerises and homework. 
+
+This approach ensures that the time spent with mentors is spent with active learning. The passive learning happens on the students own time.
 
 ## Preparation
 
@@ -9,6 +11,10 @@ Flipped classroom is a way to teach a class where students before class has watc
 - [What if students dont watch videos? Part one](https://www.youtube.com/watch?v=g1MKpyVPilI)
 - [What if students dont watch videos? Part two](https://www.youtube.com/watch?v=g1MKpyVPilI)
 
+## Tips
+- Remember to make the code written in the video lecture available to the students 
+
+![Flipped classroom slack post](./../assets/flipped-classroom-slack-post.PNG)
 
 ## Exercises
 

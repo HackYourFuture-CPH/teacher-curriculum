@@ -4,6 +4,7 @@
 - [Movivating students exercise](#movivating-students-exercise)
   - [Learning objectives](#learning-objectives)
   - [Exercises](#exercises)
+  - [Learning Paths](#learning-paths)
 
 ---
 
@@ -23,12 +24,16 @@
 
 ---
 
-List half a dozen things you did this week in your job that use the skills we teach in HYF. Report your findings back to the group.
+List half a dozen things you did this week in your job that use the skills we teach in HYF. 
 
 Examples:
 - Helped a colleague to debug a problem by eliminating possibilities
 - Extracted functionality
 
 > from https://teachertraining.codeyourfuture.io/content/motivation-and-demotivation
+
+## Learning Paths
+
+- [Groundwork for student learning](../learning-paths/groundwork-for-student-learning.md)
 
 

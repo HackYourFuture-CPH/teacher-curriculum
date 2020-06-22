@@ -8,10 +8,10 @@ The mental models are made up of schema. Which is smaller templates of how the w
 
 ## Preparation
 
-- How information is stored in the brain: https://www.youtube.com/watch?v=UpA6RdE0aYo
-- What are mental models and how do students use them: https://www.youtube.com/watch?v=AbAfM7AFO3k
-- Mental models affecting learning: https://www.youtube.com/watch?v=eVtCO84MDj8
-- Example of creating a mental model to help students learn: https://www.youtube.com/watch?v=O8BWOzc2LHU
+- [Another video](https://www.youtube.com/watch?v=AbAfM7AFO3k) about what mental models are and how students use them:
+- [A video](https://www.youtube.com/watch?v=eVtCO84MDj8) about how mental models affecting learning
+- [Example](https://www.youtube.com/watch?v=O8BWOzc2LHU) of creating a mental model to help students learn
+- Check out some of the mental models in [this article](https://fs.blog/mental-models/) to get a sense of what a mental model is
 
 ## Exercises
 

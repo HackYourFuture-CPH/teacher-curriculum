@@ -7,6 +7,7 @@
   - [2. Watch this video. Do you think this can be applied to teaching software? What does that mean for our teaching?](#2-watch-this-video-do-you-think-this-can-be-applied-to-teaching-software-what-does-that-mean-for-our-teaching)
   - [3. Create examples and questions that visualize the students misconceptions regarding promises.](#3-create-examples-and-questions-that-visualize-the-students-misconceptions-regarding-promises)
   - [Class struggles example](#class-struggles-example)
+  - [Learning Paths](#learning-paths)
 
 ---
 
@@ -47,3 +48,7 @@ return console.log(..)
 - Using unclear or non-expressive names for the variables like x, a and I have told them that it is preferable to use clear, meaningful names for variables and functions.
 - At question 4 to check if the student exists or not. Very few were thinking of using includes of indexOf at the array. Many used complex loops to implement it.
 -There was no clear understanding of how to use codepen to test the code. (edited) 
+
+## Learning Paths
+
+- [Teaching the class](../learning-paths/teaching-the-class.md)

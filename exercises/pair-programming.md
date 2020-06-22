@@ -5,6 +5,7 @@ Peer programming is about two students working together to solve some programmin
 - [Template Exercise](#template-exercise)
   - [Learning objectives](#learning-objectives)
   - [Exercises](#exercises)
+  - [Learning Paths](#learning-paths)
 
 ---
 
@@ -23,3 +24,7 @@ Peer programming is about two students working together to solve some programmin
   - What problem should the students work on
   - How do you set up the students
   - How will you physically run the session?
+
+## Learning Paths
+
+- [Teaching the class](../learning-paths/teaching-the-class.md)

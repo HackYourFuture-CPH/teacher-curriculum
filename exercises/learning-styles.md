@@ -4,6 +4,7 @@
 - [Learning styles exercise](#learning-styles-exercise)
   - [Learning objectives](#learning-objectives)
   - [Exercises](#exercises)
+  - [Learning Paths](#learning-paths)
 
 ---
 
@@ -22,3 +23,6 @@
 3. What learning style do you think you yourself are? How would you teach the topic above to yourself?
 
 
+## Learning Paths
+
+- [Groundwork for student learning](../learning-paths/groundwork-for-student-learning.md)

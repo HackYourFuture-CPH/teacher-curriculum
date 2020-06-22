@@ -1,6 +1,8 @@
 # The Basics of Pedagogy
 
+Pedagogy basiscally means the method, and practice, of teaching. The pedagogy practice is about teaching content is delivered to students.
 
+There are a couple of different pedagogical approaches for teaching that will be covered below. 
 
 ## Preparation
 

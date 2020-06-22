@@ -1,6 +1,6 @@
 # Cognitive load
 
-A mind can only remember/hold a specific number of things in memory at a time. Therefore we should be specific about what we teach, not overloading the mind the tasks and information it simply cannot hold in working memory.
+A mind can only remember/hold a specific number of things (5-7) in memory at a time. Therefore we should be specific about what we teach, not overloading the mind. 
 
 The cognitive load theory gives us guidelines to design instructions that decrease extraneous cognitive load.
 
@@ -8,10 +8,9 @@ Teachers can help students who are suffering from information overload by lettin
 
 ## Preparation
 
-- https://www.mindtools.com/pages/article/cognitive-load-theory.htm
-- https://www.youtube.com/watch?v=9ZcjWzXTHng
-- https://www.youtube.com/watch?v=UpA6RdE0aYo
-
+- [An article](https://www.mindtools.com/pages/article/cognitive-load-theory.htm) describing cognitive load
+- [Visualization](https://www.youtube.com/watch?v=9ZcjWzXTHng) of how cognitive load works
+- [Another Visualization](https://www.youtube.com/watch?v=UpA6RdE0aYo) of how cognitive load works
 
 ## Exercises
 
@@ -20,8 +19,3 @@ Teachers can help students who are suffering from information overload by lettin
 ## Learning Paths
 
 - [Groundwork for student learning](../learning-paths/groundwork-for-student-learning.md)
-
-
-
-
-
