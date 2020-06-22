@@ -70,3 +70,15 @@ There you can track your progress through the learning paths on the repository p
 
 Schedules, slide shows, materials, and guides for running your own in-person workshops using the materials in this repo.
 
+---
+
+## Handing in exercises
+If you want to get feedback on your exercise answers and also get the HYF teacher certificate, then you should be handing in exercises. 
+
+Hand in homework [here](https://github.com/HackYourFuture-CPH/teacher-curriculum-exercise-tracker)
+
+---
+
+## Getting the certificate 🏆
+
+In order to get the certificate you need to do all the exercises.
