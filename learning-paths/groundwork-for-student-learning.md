@@ -4,31 +4,19 @@ This learning path will explain the basis for learning. It will go into learning
 
 - [Groundwork for student learning](#groundwork-for-student-learning)
 - [Study Guide](#study-guide)
-  - [Student learning styles](#student-learning-styles)
-  - [Motivating students](#motivating-students)
-  - [The Basics of Pedagogy](#the-basics-of-pedagogy)
-  - [Cognitive load](#cognitive-load)
-  - [Mental models](#mental-models)
 - [Final project](#final-project)
 
 ---
 
 ## Study Guide
 
-### Student learning styles
-- [Student learning styles](./../topics/learning-styles.md)
-
-### Motivating students
-- [Motivating students](./../topics/motivating-students.md)
-
-### The Basics of Pedagogy
-- [Pedagogy](./../topics/pedagogy.md)
-
-### Cognitive load
-- [Cognitive load](./../topics/cognitive-load.md)
-
-### Mental models
-- [Mental Models](./../topics/mental-models.md)
+| Name  | Topic  | Preparation  | Exercises  |
+|---|---|---|---|
+|  Student learning styles | [topic](./../topics/learning-styles.md) | [Preparation](./../topics/learning-styles.md#preparation)  | [Exercise](./../exercises/learning-styles.md)  |
+|  Motivating students |  [topic](./../topics/motivating-students.md) | [Preparation](./../topics/motivating-students.md#preparation)  | [Exercise](./../exercises/motivating-students.md)  |
+|  The Basics of Pedagogy |  [topic](./../topics/pedagogy.md) | [Preparation](./../topics/pedagogy.md#preparation)  | [Exercise](./../exercises/pedagogy.md)  |
+|  Cognitive load |  [topic](./../topics/cognitive-load.md) | [Preparation](./../topics/cognitive-load.md#preparation)  | [Exercise](./../exercises/cognitive-load.md)  |
+|  Mental models |  [topic](./../topics/mental-models.md) | [Preparation](./../topics/mental-models.md#preparation)  | [Exercise](./../exercises/mental-models.md)  |
 
 
 ## Final project
