@@ -27,7 +27,7 @@
   <!-- - [After the class](./learning-paths/after-the-class.md) -->
   <!-- - [Creating Study Materials]() -->
   <!-- - [Being a Mentor]() -->
-- [Workshops](./workshops/README.md)
+  <!-- - [Workshops](./workshops/README.md)-->
 - [Join Us](./join-us/README.md)
   <!-- - ["Enrolling" in this course]() -->
   <!-- - [Submitting assignments]() -->
