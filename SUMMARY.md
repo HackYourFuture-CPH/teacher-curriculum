@@ -16,6 +16,8 @@
   - [Pedagogy](./topics/pedagogy.md)
   - [Peer instruction](./topics/peer-instruction.md)
   - [Problem based learning](./topics/problem-based-learning.md)
+  <!-- - [Student centered learning]() https://youtu.be/2N1I6sOhDiw https://lo.unisa.edu.au/mod/book/tool/print/index.php?id=610988 -->
+  <!-- - [Creating a social class]() -->
   <!-- - [Pedagogical Content Knowledge]() -->
   <!-- - [Student Misconceptions]() -->
   <!-- - [worked examples]() -->

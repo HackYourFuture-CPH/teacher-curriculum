@@ -57,7 +57,6 @@ A guide to which topics are helpful for this learning path
 - [Pair programming](./../topics/pair-programming.md)
 - [Problem based learning](./../topics/problem-based-learning.md)
 - [Live coding](./../topics/live-coding.md)
-<!-- Student centered learning: https://youtu.be/2N1I6sOhDiw https://lo.unisa.edu.au/mod/book/tool/print/index.php?id=610988 -->
 
 ### PCK
 
@@ -69,8 +68,5 @@ A guide to which topics are helpful for this learning path
 ### Develop and execute lesson-plan
 - [Develop lesson plan](./../topics/develop-and-execute-lesson-plan.md)
 
-<!-- 
-### Creating a social class
--->
 ### Assessing class performance
 - [Assessing class performance](./../topics/assessing-class-performance.md)
