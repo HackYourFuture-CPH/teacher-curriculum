@@ -7,6 +7,7 @@ This learning path is about topics related to the class outside of teaching a cl
 - [Study Guide](#study-guide)
   - [Evaluation of a taught class](#evaluation-of-a-taught-class)
   - [Teachers feedback](#teachers-feedback)
+- [Homework feedback](#homework-feedback)
 
 ---
 
@@ -31,3 +32,4 @@ As part of the teacher learning path you will be giving feedback to two other te
 
 [Feedback instructions](feedback.md)
 
+## Homework feedback
