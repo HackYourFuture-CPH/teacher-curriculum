@@ -1,8 +1,8 @@
-# Filp a Sunday Class
+# Flipped classroom
 
 This exercise is made in order to get some handson experience with flipped classroom
 
-- [Filp a Sunday Class](#filp-a-sunday-class)
+- [Flipped classroom](#flipped-classroom)
   - [Learning objectives](#learning-objectives)
   - [Exercise](#exercise)
   - [Learning Paths](#learning-paths)

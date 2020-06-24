@@ -1,21 +1,38 @@
 # Teacher Curriculum
 
-- [Start Here](./start-here.md)
 - [Topics](./topics/README.md)
-  - [Flipped classroom](./topics/flipped-classroom.md)
-  - [Pair programming](./topics/pair-programming.md)
   - [Asking questions](./topics/asking-questions.md)
-  - [Lesson Plans](./topics/lesson-plans.md)
+  - [Assessing class performance](./topics/assessing-class-performance.md)
+  - [Cognitive load](./topics/cognitive-load.md)
+  - [Flipped classroom](./topics/flipped-classroom.md)
+  - [Learning styles](./topics/learning-styles.md)
+  - [Lesson plans](./topics/lesson-plans.md)
+  - [Lesson plans extra](./topics/lesson-plans-extra.md)
+  - [Live coding](./topics/live-coding.md)
+  - [Mental models](./topics/mental-models.md)
+  - [motivating students](./topics/motivating-students.md)
+  - [Notional machines](./topics/notional-machines.md)
+  - [Pair programming](./topics/pair-programming.md)
+  - [Pedagogy](./topics/pedagogy.md)
+  - [Peer instruction](./topics/peer-instruction.md)
+  - [Problem based learning](./topics/problem-based-learning.md)
   <!-- - [Pedagogical Content Knowledge]() -->
   <!-- - [Student Misconceptions]() -->
-  <!-- - [peer instruction]() -->
   <!-- - [worked examples]() -->
-  <!-- - [learning styles]() -->
   <!-- - [problem solving strategies]() -->
 - [Exercises](./exercises/README.md)
-  - [Flip a Sunday Class](./exercises/flip-a-sunday-class.md)
-  - [Pair programming](./exercises/pair-programming.md)
   - [Asking questions](./exercises/asking-questions.md)
+  - [Assessing class performance](./exercises/assessing-class-performance.md)
+  - [Cognitive load](./exercises/cognitive-load.md)
+  - [Flipped classroom](./exercises/flipped-classroom.md)
+  - [Learning styles](./exercises/learning-styles.md)
+  - [Live coding](./exercises/live-coding.md)
+  - [Mental models](./exercises/mental-models.md)
+  - [motivating students](./exercises/motivating-students.md)
+  - [Pair programming](./exercises/pair-programming.md)
+  - [Pedagogy](./exercises/pedagogy.md)
+  - [Peer instruction](./exercises/peer-instruction.md)
+  - [Problem based learning](./exercises/problem-based-learning.md)
   <!-- - [Evaluating a Class]() -->
   <!-- - [Evaluating a Lesson Plan]() -->
   <!-- - [Writing Worked Examples]() -->
