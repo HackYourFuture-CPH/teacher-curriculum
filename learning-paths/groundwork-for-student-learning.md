@@ -10,7 +10,7 @@ This learning path will explain the basis for learning. It will go into learning
 
 ## Study Guide
 
-| Name  | Topic  | Preparation  | Exercises  |
+| Study  | Topic  | Preparation  | Exercises  |
 |---|---|---|---|
 |  Student learning styles | [topic](./../topics/learning-styles.md) | [Preparation](./../topics/learning-styles.md#preparation)  | [Exercise](./../exercises/learning-styles.md)  |
 |  Motivating students |  [topic](./../topics/motivating-students.md) | [Preparation](./../topics/motivating-students.md#preparation)  | [Exercise](./../exercises/motivating-students.md)  |
