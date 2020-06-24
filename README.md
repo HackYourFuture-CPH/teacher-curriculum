@@ -23,10 +23,7 @@ The curriculum does not need to be followed in a specific order but can be compl
 
 ## Overview
 
-SHOULD WE HAVE A CATEGORY ONLY CALLED MENTORING STUDENTS???
-- by mentoring you mean longer-term support of individual students? this could be a separate module
-
-![Teacher curriculum overview](teacher-curriculum-overview.png)
+![Learning paths](./assets/learning-paths.PNG)
 
 ---
 
@@ -34,7 +31,7 @@ SHOULD WE HAVE A CATEGORY ONLY CALLED MENTORING STUDENTS???
 
 The section in this GitBook called "topics" is a collections of concepts and techniques in education that are helpful for teaching programming.
 
-If you only have a few minutes here and there, dive into the topics!  You can learn something interesting and helpful in any short amount of time.
+If you only have a few minutes here and there, dive into the topics! You can learn something interesting and helpful in any short amount of time.
 
 ---
 
@@ -66,11 +63,14 @@ There you can track your progress through the learning paths on the repository p
 
 ---
 
+
+<!--
 ## Workshops
 
 Schedules, slide shows, materials, and guides for running your own in-person workshops using the materials in this repo.
 
 ---
+-->
 
 ## Handing in exercises
 If you want to get feedback on your exercise answers and also get the HYF teacher certificate, then you should be handing in exercises. 
@@ -82,3 +82,11 @@ Hand in homework [here](https://github.com/HackYourFuture-CPH/teacher-curriculum
 ## Getting the certificate 🏆
 
 In order to get the certificate you need to do all the exercises.
+
+## Must-Reads
+
+- [The Rules from teachtogether.tech](https://teachtogether.tech/#the-rules) (a list)
+- [What is Pedagogy?](https://www.youtube.com/watch?v=QcpwEoW1uY8) (video)
+- [Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI) (video)
+- [Pedagogical Content Knowledge](https://teachtogether.tech/#s:pck) (short read)
+- [Student Misconceptions](https://teachtogether.tech/#s:pck-misunderstand)

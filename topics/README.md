@@ -1,9 +1,13 @@
 # Topics
 
-Welcome.  come read about specific topics in education, computing education, and teaching hyf.
+Welcome ✌
 
-Only got 20 minutes?  find a topic that's interesting and take a read!
+In the topics part you have all the different topics that have been written for the teacher curriculum. 
 
-Looking for a deeper study?  check out the learning paths
+Come read about specific topics in education, computing education, and teaching hyf.
 
-looking for some hands-on practice? check out the exercises
+Only got 20 minutes? Find a topic that's interesting and take a read!
+
+Looking for a deeper study? Check out the [learning paths](./../learning-paths/README.md)
+
+Looking for some hands-on practice? Check out the [exercises](./../exercises/README.md)
