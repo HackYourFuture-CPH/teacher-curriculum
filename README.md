@@ -89,3 +89,6 @@ There are a few must read articles and videos we want you to watch and read:
 - [Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI) (video)
 - [Pedagogical Content Knowledge](https://teachtogether.tech/#s:pck) (short read)
 - [Student Misconceptions](https://teachtogether.tech/#s:pck-misunderstand)
+
+---
+[![Lets get started](./assets/lets-get-started.png)](./learning-paths/groundwork-for-student-learning.md)

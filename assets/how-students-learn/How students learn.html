@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html dir="ltr" xml:lang="en" class="yui3-js-enabled" lang="en"><head>
+    <title>How students learn</title>
+    <link rel="shortcut icon" href="https://lo.unisa.edu.au/theme/image.php/learnonline/theme/1590443332/favicon">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="How%20students%20learn_files/nr-1169.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcCV1JbGwAFUlRSAwE=",licenseKey:"1b09c130ee",applicationID:"3565040"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),c.xhrWrappable&&t(10),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(9),s=t(8),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=y.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,y.now()])}),a.on(m,function(t,n,e){this.bstStart=y.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){function r(t,n,e){var r=t[n];"function"==typeof r&&(t[n]=function(){var t=i(arguments),n={};o.emit(e+"before-start",[t],n);var a;n[m]&&n[m].dt&&(a=n[m].dt);var s=r.apply(this,t);return o.emit(e+"start",[t,a],s),s.then(function(t){return o.emit(e+"end",[null,t],s),t},function(t){throw o.emit(e+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(22),a=t(21);n.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,l=s.Response,p=s.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,n){r(d[h],n,f),r(l[h],n,f)}),r(s,"fetch",c),o.on(c+"end",function(t,n){var e=this;if(n){var r=n.headers.get("content-length");null!==r&&(e.rxSize=r),o.emit(c+"done",[null,n],e)}else o.emit(c+"done",[t],e)}))},{}],7:[function(t,n,e){var r=t("ee").get("history"),o=t("wrap-function")(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,n,e){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],9:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],10:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,n,e){function r(t){if(!i(t))return null;var n=window.NREUM;if(!n.loader_config)return null;var e=(n.loader_config.accountID||"").toString()||null,r=(n.loader_config.agentID||"").toString()||null,s=(n.loader_config.trustKey||"").toString()||null;if(!e||!r)return null;var c=a.generateCatId(),f=a.generateCatId(),u=Date.now(),d=o(c,f,u,e,r,s);return{header:d,guid:c,traceId:f,timestamp:u}}function o(t,n,e,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:n,ti:e}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function i(t){var n=!1,e=!1,r={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=NREUM.init.distributed_tracing,e=!!r.enabled),e)if(t.sameOrigin)n=!0;else if(r.allowed_origins instanceof Array)for(var o=0;o<r.allowed_origins.length;o++){var i=s(r.allowed_origins[o]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){n=!0;break}}return e&&n}var a=t(19),s=t(13);n.exports={generateTracePayload:r,shouldGenerateTrace:i}},{}],12:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);n.aborted||(e.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):i(this,t),e.cbTime=this.cbTime,u.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime]))}}function o(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.parsedOrigin=c(n),t.sameOrigin=t.parsedOrigin.sameOrigin}function i(t,n){t.params.status=n.status;var e=w(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){i(n,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=f(this.parsedOrigin);e&&e.header&&(n.setRequestHeader("newrelic",e.header),this.dt=e)}),u.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=m(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<l;s++)n.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),u.on("xhr-load-added",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],n)}),u.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],n)}),u.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,n){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)}),u.on("fetch-before-start",function(t){var n,e=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=f(this.parsedOrigin);if(r&&r.header){var o=r.header;if("string"==typeof t[0]){var i={};for(var a in e)i[a]=e[a];i.headers=new Headers(e.headers||{}),i.headers.set("newrelic",o),this.dt=r,t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",o),this.dt=r)}})}},{}],13:[function(t,n,e){var r={};n.exports=function(t){if(t in r)return r[t];var n=document.createElement("a"),e=window.location,o={};n.href=t,o.port=n.port;var i=n.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=n.hostname||e.hostname,o.pathname=n.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!n.protocol||":"===n.protocol||n.protocol===e.protocol,s=n.hostname===document.domain&&n.port===e.port;return o.sameOrigin=a&&(!n.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],14:[function(t,n,e){function r(t,n){var e=t.responseType;return"json"===e&&null!==n?n:"arraybuffer"===e||"blob"===e||"json"===e?o(t.response):"text"===e||""===e||void 0===e?o(t.responseText):void 0}var o=t(16);n.exports=r},{}],15:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],16:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],17:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],18:[function(t,n,e){function r(t,n){var e=t.getEntries();e.forEach(function(t){"first-paint"===t.name?c("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&c("timing",["fcp",Math.floor(t.startTime)])})}function o(t,n){var e=t.getEntries();e.length>0&&c("lcp",[e[e.length-1]])}function i(t){if(t instanceof u&&!l){var n,e=Math.round(t.timeStamp);n=e>1e12?Date.now()-e:f.now()-e,l=!0,c("timing",["fi",e,{type:t.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,s,c=t("handle"),f=t("loader"),u=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),s=new PerformanceObserver(o);try{a.observe({entryTypes:["paint"]}),s.observe({entryTypes:["largest-contentful-paint"]})}catch(d){}}if("addEventListener"in document){var l=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(t){document.addEventListener(t,i,!1)})}}},{}],19:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],20:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],21:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],22:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],23:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){g[t]=m(t).concat(n)}function h(t,n){var e=g[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1169.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(15),t(18),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}],"wrap-function":[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}]},{},["loader",2,12,4,3]);</script>
+<meta name="keywords" content="moodle, How students learn">
+<link rel="stylesheet" type="text/css" href="How%20students%20learn_files/yui_combo_002.css"><script charset="utf-8" id="yui_3_17_2_1_1593005357830_8" src="How%20students%20learn_files/yui_combo.php" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1593005357830_18" src="How%20students%20learn_files/yui_combo_003.php" async=""></script><link charset="utf-8" rel="stylesheet" id="yui_3_17_2_1_1593005357830_24" href="How%20students%20learn_files/yui_combo.css"><script charset="utf-8" id="yui_3_17_2_1_1593005357830_25" src="How%20students%20learn_files/yui_combo_004.php" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1593005357830_33" src="How%20students%20learn_files/yui_combo_006.php" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1593005357830_39" src="How%20students%20learn_files/yui_combo_002.php" async=""></script><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="How%20students%20learn_files/all.css">
+<link rel="stylesheet" type="text/css" href="How%20students%20learn_files/print.css">
+<script type="text/javascript">
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/lo.unisa.edu.au","sesskey":"lI2YEmQ6M6","themerev":"1590443332","slasharguments":1,"theme":"learnonline","iconsystemmodule":"core\/icon_system_standard","jsrev":"1590443332","admin":"admin","svgicons":true,"usertimezone":"Australia\/Adelaide","contextid":916023};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/lo.unisa.edu.au\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/lo.unisa.edu.au\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/lo.unisa.edu.au\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/lo.unisa.edu.au\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/lo.unisa.edu.au\/theme\/yui_combo.php?m\/1590443332\/","combine":true,"comboBase":"https:\/\/lo.unisa.edu.au\/theme\/yui_combo.php?","ext":false,"root":"m\/1590443332\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-checknet":{"requires":["base-base","moodle-core-notification-alert","io-base"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-dock":{"requires":["base","node","event-custom","event-mouseenter","event-resize","escape","moodle-core-dock-loader","moodle-core-event"]},"moodle-core-dock-loader":{"requires":["escape"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-formatchooser":{"requires":["base","node","node-event-simulate"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-modchooser":{"requires":["moodle-core-chooserdialogue","moodle-course-coursebase"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-passwordunmask":{"requires":[]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-form-showadvanced":{"requires":["node","base","selector-css3"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-question-qbankmanager":{"requires":["node","selector-css3"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-qtype_ddimageortext-dd":{"requires":["node","dd","dd-drop","dd-constrain"]},"moodle-qtype_ddimageortext-form":{"requires":["moodle-qtype_ddimageortext-dd","form_filepicker"]},"moodle-qtype_ddmarker-dd":{"requires":["node","event-resize","dd","dd-drop","dd-constrain","graphics"]},"moodle-qtype_ddmarker-form":{"requires":["moodle-qtype_ddmarker-dd","form_filepicker","graphics","escape"]},"moodle-qtype_ddwtos-dd":{"requires":["node","dd","dd-drop","dd-constrain"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_customcert-rearrange":{"requires":["dd-delegate","dd-drag"]},"moodle-mod_dialogue-autocomplete":{"requires":["base","node","json-parse","autocomplete","autocomplete-filters","autocomplete-highlighters","event","event-key"]},"moodle-mod_dialogue-clickredirector":{"requires":["base","node","json-parse","clickredirector","clickredirector-filters","clickredirector-highlighters","event","event-key"]},"moodle-mod_forum-subscriptiontoggle":{"requires":["base-base","io-base"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-repaginate":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-mod_scheduler-delselected":{"requires":["base","node","event"]},"moodle-mod_scheduler-saveseen":{"requires":["base","node","event"]},"moodle-mod_scheduler-studentlist":{"requires":["base","node","event","io"]},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_grader-gradereporttable":{"requires":["base","node","event","handlebars","overlay","event-hover"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-theme_unisaonline-gradereporttable":{"requires":["base","node","event","handlebars","overlay","event-hover","moodle-gradereport_grader-gradereporttable"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bsgrid-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_computing-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_ereserve-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_fullscreen-button":{"requires":["event-resize","moodle-editor_atto-plugin"]},"moodle-atto_generico-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_helixatto-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_hr-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_html-button":{"requires":["moodle-editor_atto-plugin","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_matrix-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_panoptobutton-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_styles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_wiris-button":{"requires":["moodle-editor_atto-plugin","get"]},"moodle-tinymce_mathslate-dialogue":{"requires":["escape","moodle-local_mathslate-editor","moodle-tinymce_mathslate-editor"]},"moodle-tinymce_mathslate-editor":{"requires":["dd-drag","dd-proxy","dd-drop","event","tabview","io-base","json","moodle-tinymce_mathslate-textool","moodle-tinymce_mathslate-mathjaxeditor"]},"moodle-tinymce_mathslate-mathjaxeditor":{"requires":["moodle-tinymce_mathslate-snippeteditor","dd-drop"]},"moodle-tinymce_mathslate-snippeteditor":{"requires":["json"]},"moodle-tinymce_mathslate-textool":{"requires":["dd-drag","dd-proxy","dd-drop","event","json"]}}},"gallery":{"name":"gallery","base":"https:\/\/lo.unisa.edu.au\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/lo.unisa.edu.au\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1590443332\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/lo.unisa.edu.au\/lib\/javascript.php\/1590443332\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/lo.unisa.edu.au\/lib\/javascript.php\/1590443332\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]},"mathjax":{"name":"mathjax","fullpath":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/mathjax\/2.7.7\/MathJax.js?delayStartupUntil=configured"}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/x-mathjax-config">MathJax.Hub.Config({
+    config: ["Accessible.js", "Safe.js"],
+    errorSettings: { message: ["!"] },
+    skipStartupTypeset: true,
+    messageStyle: "none"
+});
+</script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="core/first" src="How%20students%20learn_files/first.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="core/event" src="How%20students%20learn_files/event.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="How%20students%20learn_files/jquery-3.js"></script></head>
+
+<body id="page-mod-book-print" class="format-topics  path-mod path-mod-book gecko dir-ltr lang-en yui-skin-sam yui3-skin-sam lo-unisa-edu-au pagelayout-embedded course-5282 context-916023 cmid-610988 category-909 content-only jsenabled">
+<div class="skiplinks">
+    <a href="#maincontent" class="skip">Skip to main content</a>
+</div><script type="text/javascript" src="How%20students%20learn_files/yui_combo_005.php"></script><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div><script type="text/javascript" src="How%20students%20learn_files/jquery-3_002.js"></script>
+<script type="text/javascript" src="How%20students%20learn_files/jquery.js"></script>
+<script type="text/javascript" src="How%20students%20learn_files/javascript-static.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+<div id="page">
+    <div id="page-content" class="clearfix">
+        <div role="main" id="yui_3_17_2_1_1593005357830_44"><span id="user-notifications"></span><span id="maincontent"></span><a onclick="window.print();return false;" class="hidden-print" href="#"><i class="fa fa-fw fa-book icon" title="Print book"></i>Print book</a>    <a name="top"></a>
+    <h1>How students learn</h1>    <p class="book_summary"><span class="formattedusercontent"></span></p><p>How students learn</p><p></p>
+    <div class="book_info"><table>
+    <tbody><tr>
+    <td>Site:</td>
+    <td><a href="https://lo.unisa.edu.au/">learnonline</a></td>
+    </tr><tr>
+    <td>Course:</td>
+    <td>Teaching and learning in Health Sciences</td>
+    </tr><tr>
+    <td>Book:</td>
+    <td>How students learn</td>
+    </tr><tr>
+    <td>Printed by:</td>
+    <td>Guest user  </td>
+    </tr><tr>
+    <td>Date:</td>
+    <td>Wednesday, 24 June 2020, 10:59 PM</td>
+    </tr>
+    </tbody></table></div>
+
+    <div class="book_toc_none"><a name="toc"></a><h2>Table of contents</h2><ul><li><a title="Introduction" href="#ch101848">Introduction</a></li><li><a title="Constructivism" href="#ch102052">Constructivism</a></li><li><a title="Behaviourism" href="#ch120208">Behaviourism</a></li><li><a title="Information processing" href="#ch120209">Information processing</a></li><li><a title="Student-centred learning" href="#ch102030">Student-centred learning</a></li><li><a title="Active learning" href="#ch101290">Active learning</a></li><li><a title="Collaborative and peer learning" href="#ch101291">Collaborative and peer learning</a></li><li><a title="Thinking and mind tools" href="#ch115177">Thinking and mind tools</a></li><li><a title="Cognitive theory of multimedia learning" href="#ch200167">Cognitive theory of multimedia learning</a></li></ul></div><div class="book_chapter" id="yui_3_17_2_1_1593005357830_43"><a name="ch101848"></a><span class="formattedusercontent" id="yui_3_17_2_1_1593005357830_42"><table style="border-color: #002b72; border-width: 2px; border-style: solid; box-shadow: #888888 5px 5px 5px;" class="img-rounded" cellspacing="2" cellpadding="2" border="2" align="right">
+<tbody>
+<tr>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;"><span style="font-size: small;">Ask us</span><br></span></td>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;">&nbsp;<span style="font-size: small;">Tell us</span>&nbsp;</span></td>
+<td style="width: 33%;"><span style="color: #002b72;"><span style="font-size: small;"></span><span style="font-size: small;">Find us<a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"></a></span>&nbsp;</span></td>
+</tr>
+<tr>
+<td class="img-rounded"><a href="mailto:anne.lonie@unisa.edu.au" target="_blank"><img src="How%20students%20learn_files/Ask%2520us%2520small%2520v4.png" class="img-responsive" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" alt="Ask a question " title="Ask a question " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://padlet.com/anne_lonie/Feedback" target="_blank"><img src="How%20students%20learn_files/Tell%2520us%2520small%2520v2.png" class="img-responsive" style="margin: 4px auto; display: block; vertical-align: middle;" alt="Give us feedback " title="Give us feedback " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"><img src="How%20students%20learn_files/Find%2520us%2520small%2520v3.png" class="img-responsive" style="margin: 4px auto; vertical-align: middle; display: block;" alt="Come and see us " title="Come and see us " width="50" height="50"></a></td>
+</tr>
+</tbody>
+</table>
+<h2 style="text-align: justify;" id="yui_3_17_2_1_1593005357830_41"><span style="font-family: arial, helvetica, sans-serif; color: #002b72;">Introduction</span></h2>
+<hr style="border-color: #DCDCDC;">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">In
+ order to get the best results from your teaching endeavours, it is 
+helpful to have a idea of the theory and practice behind student 
+learning.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">In
+ this Moodle 'book', you will see various 'chapters' outlining some of 
+the principles behind student learning, which you can use to underpin 
+your course learning and assessment strategies, and some practical 
+approaches to developing effective learning activities.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Just
+ click on the table of contents to the left to go to the different 
+'chapters', or use the arrows at the top and bottom of &nbsp;each page 
+to move back and forwards in this book. You can also print the book or 
+any of the chapters out, using the links in the Administration block to 
+the left.</span></p>
+<p><span style="font-size: small; color: #333333;"><span style="font-family: arial, helvetica, sans-serif;">Two
+ very important learning theories to check out are constructivism and 
+student-centered learning - you can find more information from the 
+chapters to the left.</span></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #333333;">We have also included information on other popular theories about how students learn best, such as:</span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Active learning - in which students solve problems, pose and answer questions, discuss and debate</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Cooperative
+ learning - in which students work with their peers in on projects which
+ foster positive interdependence and individual accountability</span></li>
+</ul>
+<p></p>
+<table style="width: 98%;" cellspacing="15" cellpadding="15" border="0" align="center">
+<tbody>
+<tr>
+<td style="width: 70%;" rowspan="4" valign="top"><img src="How%20students%20learn_files/Resource%25201.jpg" alt="The learning pyramid [Source: http://www.uinjkt.ac.id/en/student-centered-lerning/]" title="The learning pyramid [Source: http://www.uinjkt.ac.id/en/student-centered-lerning/]" class="img-responsive" style="vertical-align: middle; margin: 8px auto; display: block; box-shadow: #888888 5px 5px 5px; " width="732" height="447"></td>
+<td style="width: 25%;" rowspan="4" valign="top"><hr style="border-color: #DCDCDC;">
+<h3><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Interesting links</span></h3>
+<p><span style="font-size: small; background-color: transparent;"><span style="color: #000000;"><span style="color: #0000ff;"><a href="https://lo.unisa.edu.au/mod/resource/view.php?id=1120717" target="_blank"><span style="color: #0000ff;">The Nature of Learning: Using Research to Inspire Practice</span></a></span><a href="https://lo.unisa.edu.au/mod/resource/view.php?id=1120717" target="_blank"><span style="color: #000000;">.</span></a></span>&nbsp;</span></p>
+<p><span style="background-color: transparent; font-size: small;">Practitioner Guide from th</span><span style="color: #000000; font-size: small;">e <span style="color: #0000ff;"><a href="http://www.oecd.org/edu/ceri/innovativelearningenvironments.htm" target="_blank"><span style="color: #0000ff;">Innovative Learning Environments Project. </span></a><span style="color: #000000;">Centre for Educational Research and Innovation.&nbsp;</span></span></span></p>
+</td>
+</tr>
+</tbody>
+</table></span></div><div class="book_chapter" id="yui_3_17_2_1_1593005357830_47"><a name="ch102052"></a><span class="formattedusercontent" id="yui_3_17_2_1_1593005357830_46"><h2><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Constructivism</span></h2>
+<hr style="border-color: #DCDCDC;">
+<table style="width: 30%;" cellspacing="9" cellpadding="9" border="0" align="right">
+<tbody>
+<tr>
+<td><div class="embedresponsive-wrap" style="max-width: 560px;"><div class="embedresponsive-container" style="padding-bottom: 56.25%;"><iframe src="How%20students%20learn_files/PK2NILj3BrU.html" style="max-height: 315px;" width="560" height="315" align="left"> </iframe></div></div></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><span style="font-size: small;">Constructivist learning theory&nbsp;emphasizes the learner's critical role in their own learning.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: small;">Constructivism
+ is founded on the premise that we 'construct' our own understanding by 
+reflecting on our prior experiences. We generate our own 'rules' and 
+'mental models', which we use to make sense of our experiences.</span></p>
+<p style="text-align: justify;" id="yui_3_17_2_1_1593005357830_45"><span style="font-size: small;">Therefore, when we learn, what we are actually doing is adjusting our mental models to accommodate new experiences.</span></p>
+<p style="text-align: justify;"><span style="font-size: small;">There are several guiding principles of constructivism:</span></p>
+<p style="text-align: justify;"><span style="font-size: small;">1. 
+Learning is a search for meaning. The purpose of learning is for an 
+individual to construct his or her own meaning, not just memorize the 
+'right' answers and regurgitate someone else’s meaning.&nbsp;Therefore, 
+learning must start with the issues around which students are actively 
+trying to construct meaning.</span><br><span style="font-size: small;">2.
+ Meaning requires understanding the whole as well as understanding 
+parts, and parts must be understood in the context of the whole. 
+Therefore, the learning process must focus on primary concepts, not 
+isolated facts.</span><br><span style="font-size: small;">3. In order to
+ teach well, we must understand the mental models that students use to 
+perceive the world, and the assumptions they make to support those 
+models.</span><br><span style="font-size: small;">4. Since education is 
+inherently interdisciplinary, the only valuable way to measure learning 
+is to make the assessment part of the learning process, ensuring it 
+provides students with information on the quality of their learning.</span></p>
+<p><span style="font-size: medium;"><span style="font-size: small;">Adapted from&nbsp;<span style="color: #3366ff;"><a href="https://www.funderstanding.com/theory/constructivism/#sthash.Ms3nSyNt.dpuf" target="_blank"><span style="color: #3366ff;">https://www.funderstanding.com/theory/constructivism/#sthash.Ms3nSyNt.dpuf</span></a></span></span><span style="color: #0000ff;"><span style="color: #0000ff;"><span style="color: #00ccff;"><a href="http://www.funderstanding.com/theory/constructivism/#sthash.Ms3nSyNt.dpuf" target="_blank"><span style="color: #00ccff;"><br></span></a></span><a href="http://www.funderstanding.com/theory/constructivism/#sthash.Ms3nSyNt.dpuf" target="_blank"></a></span></span></span></p>
+<table style="width: 98%;" cellspacing="15" cellpadding="15" border="0" align="center">
+<tbody>
+<tr>
+<td style="width: 70%;" rowspan="4" valign="top">
+<p><img src="How%20students%20learn_files/Resource%25202.jpg" class="img-polaroid" style="margin: 6px; box-shadow: #888888 5px 5px 5px; " alt="Constructivism concept map [Source: http://constructivism512.pbworks.com/w/page/16397300/Constructivism%20Concept%20Map]" title="Constructivism concept map [Source: http://constructivism512.pbworks.com/w/page/16397300/Constructivism%20Concept%20Map]" width="98%"></p>
+</td>
+<td style="width: 25%;" rowspan="4" valign="top"><hr style="border-color: #DCDCDC;">
+<h3><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Interesting resources</span></h3>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Brandon, A &amp; All, A 2010, 'Constructivism theory analysis and application to nursing programs',<em> Nurse Education Perspectives</em>, vol. 31(2), pp. 89-92.</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Candela, L, Dalley, K &amp; Benzel-Lindley, J 2006, 'A case for learning-centered curricula', <em>Journal of Nursing Education</em>, vol. 45(2), pp. 59-66.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 70%;"></td>
+<td style="width: 25%;"></td>
+</tr>
+<tr>
+<td style="width: 70%;"></td>
+<td style="width: 25%;"></td>
+</tr>
+</tbody>
+</table></span></div><div class="book_chapter"><a name="ch120208"></a><span class="formattedusercontent"><table style="border-color: #002b72; border-width: 2px; border-style: solid; box-shadow: #888888 5px 5px 5px;" class="img-rounded" cellspacing="2" cellpadding="2" border="2" align="right">
+<tbody>
+<tr>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;"><span style="font-size: small;">Ask us</span><br></span></td>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;">&nbsp;<span style="font-size: small;">Tell us</span>&nbsp;</span></td>
+<td style="width: 33%;"><span style="color: #002b72;"><span style="font-size: small;"></span><span style="font-size: small;">Find us<a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"></a></span>&nbsp;</span></td>
+</tr>
+<tr>
+<td class="img-rounded"><a href="mailto:anne.lonie@unisa.edu.au" target="_blank"><img src="How%20students%20learn_files/Ask%252520us%252520small_006.png" class="img-responsive" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" alt="Ask a question " title="Ask a question " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://padlet.com/anne_lonie/Feedback" target="_blank"><img src="How%20students%20learn_files/Tell%2520us%2520small.png" class="img-responsive" style="margin: 4px auto; display: block; vertical-align: middle;" alt="Give us feedback " title="Give us feedback " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"><img src="How%20students%20learn_files/Find%252520us%252520small_005.png" class="img-responsive" style="margin: 4px auto; vertical-align: middle; display: block;" alt="Come and see us " title="Come and see us " width="50" height="50"></a></td>
+</tr>
+</tbody>
+</table>
+<h2><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Behaviourism</span></h2>
+<hr style="border-color: #DCDCDC;">
+<p style="text-align: justify;"><img src="How%20students%20learn_files/Behaviourism%2520Operant_conditioning_diagram%2520v3.png" alt="Behaviourism diagram" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 9px; float: left; border: 2px solid black;" width="60%"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">The
+ basis of the theory of behaviourism is that humans can be trained to 
+produce certain behaviour in response to certain stimuli, and the more 
+often the response is stimulated, the stronger is the training.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">More
+ advanced theories of behaviourism look at reinforcement as the focus 
+rather than simple observable reflexes, and state that specific learning
+ can be achieved with the right applications of negative and positive 
+reinforcement (<span style="color: #0000ff;"><a href="https://www.simplypsychology.org/operant-conditioning.html" target="_blank"><span style="color: #0000ff;">Skinner’s operant conditioning</span></a></span>).</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Behaviourism
+ has had a bad reputation for a long time, because it's perceived as a 
+low level approach to training and education, which simply relies on 
+producing a behaviour without any consideration of the internal 
+processes that produce the behaviour, just the external response. Many 
+people see this as no more than the level of ‘education’ which we use 
+with dogs, without any idea of free will and choice.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">However,
+ there's no denying that throughout our lives, we learn much of what we 
+know from the stimulus-response model, especially as young children. 
+Skinner noted that behaviorism is often is used by school teachers, who 
+reward or punish student behaviours. (<span style="color: #0000ff;"><a href="https://www.funderstanding.com/" target="_blank"><span style="color: #0000ff;">Funderstanding</span></a></span>, 2002).</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">While
+ not at such as low level as behaviourism, the premise underlying much 
+authored elearning is based on the concept of rewarding correct answers.</span></p></span></div><div class="book_chapter"><a name="ch120209"></a><span class="formattedusercontent"><h2><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Information processing</span></h2>
+<hr style="border-color: #DCDCDC;">
+<p><img src="How%20students%20learn_files/info%2520processing%2520model%2520b.png" alt="information processing model [Source: http://dataworks-ed.com/the-information-processing-model/]" title="information processing model [Source: http://dataworks-ed.com/the-information-processing-model/]" class="img-responsive" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 15px; float: right;" width="624" height="360"></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">The
+ information processing theory focuses on the idea that humans process 
+the information they receive from the environment, in the manner of a 
+computer, rather than merely responding to stimuli. &nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">The
+ student's brain brings information in, manipulates it, and stores it 
+ready for future use – this is the learning aspect.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">In
+ information processing theory, as the student takes in information, 
+that information is first briefly stored as sensory storage; then moved 
+to the short term or working memory; &nbsp;and then either forgotten or 
+transferred to the long term memory, as:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;"> semantic memories (concepts and general information)</span></li>
+<li style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">procedural memories (processes)</span></li>
+<li style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">images</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">This
+ theory addresses how as children grow, their brains likewise mature, 
+leading to advances in their ability to process and respond to the 
+information they received through their senses. The theory emphasizes a 
+continuous pattern of development.</span></p>
+<p style="text-align: justify;"><span style="font-size: medium; font-family: arial, helvetica, sans-serif;"><span style="font-size: small;">The
+ transference of information to the long term memory is important, as 
+information cannot rest in the short term memory (the short term memory 
+can only hold seven pieces of information at a time). An overload in</span> <span style="font-size: small;">the short term memory can result in cognitive overload.</span></span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Teachers
+ can help students who are suffering from information overload 
+by&nbsp;letting students know what are the critical elements of the 
+information; in other words, prioritizing the information. &nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Make
+ sure you have the students’ attention, and help students to make 
+connections between new material and what they already know. </span></p>
+<p style="text-align: justify;"><span style="font-size: medium; font-family: arial, helvetica, sans-serif;"><span style="font-size: small;">Provide for repetition and review of information, present material in a very clear manner</span>, <span style="font-size: small;">and focus on the meaning of information.</span></span></p>
+<p style="text-align: center;"><div class="embedresponsive-wrap" style="max-width: 560px;"><div class="embedresponsive-container" style="padding-bottom: 56.25%;"><iframe src="How%20students%20learn_files/pMMRE4Q2FGk.html" allowfullscreen="" style="max-height: 315px;" width="560" height="315" frameborder="0"></iframe></div></div></p>
+<p><span style="color: #3366ff;"><span style="color: #3366ff;"></span></span></p>
+<p><span style="color: #3366ff;"><a href="https://lo.unisa.edu.au/pluginfile.php/916023/mod_book/chapter/120209/Helping%20Students%20Memorize%20-%20%20Tips%20from%20Cognitive%20Science.docx" target="_blank"><span style="color: #3366ff;">Download document <em>Helping students memorise: Tips from cognitive science</em></span></a>&nbsp;</span></p></span></div><div class="book_chapter"><a name="ch102030"></a><span class="formattedusercontent"><table style="border-color: #002b72; border-width: 2px; border-style: solid; box-shadow: #888888 5px 5px 5px;" class="img-rounded" cellspacing="2" cellpadding="2" border="2" align="right">
+<tbody>
+<tr>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;"><span style="font-size: small;">Ask us</span><br></span></td>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;">&nbsp;<span style="font-size: small;">Tell us</span>&nbsp;</span></td>
+<td style="width: 33%;"><span style="color: #002b72;"><span style="font-size: small;"></span><span style="font-size: small;">Find us<a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"></a></span>&nbsp;</span></td>
+</tr>
+<tr>
+<td class="img-rounded"><a href="mailto:anne.lonie@unisa.edu.au" target="_blank"><img src="How%20students%20learn_files/Ask%252520us%252520small_002.png" class="img-responsive" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" alt="Ask a question " title="Ask a question " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://padlet.com/anne_lonie/Feedback" target="_blank"><img src="How%20students%20learn_files/Tell%252520us%252520small_004.png" class="img-responsive" style="margin: 4px auto; display: block; vertical-align: middle;" alt="Give us feedback " title="Give us feedback " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"><img src="How%20students%20learn_files/Find%252520us%252520small_006.png" class="img-responsive" style="margin: 4px auto; vertical-align: middle; display: block;" alt="Come and see us " title="Come and see us " width="50" height="50"></a></td>
+</tr>
+</tbody>
+</table>
+<h2><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Student-centered learning</span></h2>
+<hr style="border-color: #DCDCDC;">
+<p></p>
+<table style="width: 90%;" cellspacing="15" cellpadding="15" border="0" align="center">
+<tbody>
+<tr>
+<td style="width: 70%;" colspan="3" valign="top">
+<p style="text-align: justify;"></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: georgia, 'times new roman', times, serif;"><em>"...&nbsp;<em>what the student does</em>&nbsp;is actually more important in determining what is learned than what the teacher does.<span class="reference">"</span><em>&nbsp;<a class="elf-external elf-iconelf-external elf-iconelf-external elf-iconelf-external elf-icon" href="http://www.jstor.org/stable/1170340"><em></em></a><em><a class="elf-external elf-iconelf-external elf-iconelf-external elf-iconelf-external elf-icon" href="http://www.jstor.org/stable/1170340">&nbsp;</a></em></em></em></span><span style="color: #0000ff;"><em style="font-size: small; background-color: transparent;"><span style="font-family: georgia, 'times new roman', times, serif;"><em><em><a class="elf-external elf-iconelf-external elf-iconelf-external elf-iconelf-external elf-icon" href="http://www.jstor.org/stable/1170340" target="_blank"><span style="color: #0000ff;">Thomas Shuell</span></a></em></em></span></em></span></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span style="background-color: transparent;">The
+ are a number of approaches which aim to optimise how and how much 
+students actually learn from a teaching activity, but one of the most 
+important is to develop student-centered learning strategies, 
+which&nbsp;</span><span style="line-height: 20px; background-color: transparent;">are based on the foundation of constructivism.&nbsp;</span></span></p>
+<p style="text-align: justify;"><span style="line-height: 20px; background-color: transparent; font-size: small; font-family: arial, helvetica, sans-serif;">Most
+ modern tertiary institutions actively practice (or claim to practice) 
+program delivery methods which encourage students to take an active role
+ in creating the learning and assessment processes.&nbsp;</span></p>
+<span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><img src="How%20students%20learn_files/Student%2520centered%2520learning.png" alt="http://www.uinjkt.ac.id/en/student-centered-lerning/" title="http://www.uinjkt.ac.id/en/student-centered-lerning/" style="margin: 15px; float: left; box-shadow: #888888 5px 5px 5px;" width="40%"></span>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Student-centered
+ learning strategies&nbsp;shift the focus of activity from the teacher 
+to the learners, and are&nbsp;particularly relevant to tertiary and 
+professional education, because they foster motivation and incentive to 
+learn. In acting as a&nbsp;facilitator guiding the students, rather than
+ just instructing them, the teacher is allowing the&nbsp;learners take 
+an active part in deciding what they learn, how they learn and how they 
+can evaluate what they have learnt.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span style="line-height: 20px; background-color: transparent;">Ideally,
+ this means that the learners have more responsibility and ownership of 
+their learning, and are not simply passive ‘vessels’ receiving knowledge
+ from the teacher.&nbsp;</span></span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span style="line-height: 20px; background-color: transparent;"></span>Student-centered
+ strategies emphasise each student’s interests, abilities and learning 
+style. Where these types of strategies have been actively adopted in 
+tertiary programs, the&nbsp;evidence suggests that the students 
+have&nbsp;developed greater skills for independent problem solving, 
+critical thinking and reflective thinking. The approach has also 
+increased their&nbsp;confidence in their knowledge and skills.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">The
+ input which the students have in their learning also have implications 
+for assessment – in a student-centred classroom, they will be more 
+involved in deciding how to evaluate and demonstrate their 
+learning.&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 70%;" colspan="3" valign="top">
+<p style="text-align: center;"><span style="line-height: 20px; font-size: small; background-color: transparent;">&nbsp;</span><div class="embedresponsive-wrap" style="max-width: 560px;"><div class="embedresponsive-container" style="padding-bottom: 56.25%;"><iframe src="How%20students%20learn_files/2N1I6sOhDiw.html" allowfullscreen="" style="max-height: 315px;" width="560" height="315" frameborder="0"></iframe></div></div></p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;" colspan="2" valign="top" align="left"><hr style="border-color: #DCDCDC;">
+<h3><span style="color: #002b72;"><span style="font-family: arial, helvetica, sans-serif;">Putting it into practice</span></span></h3>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Learning
+ contracts are&nbsp;mutual agreements between teachers and students 
+which state explicitly what a learner will do to achieve specific 
+learning outcomes, and how their learning will be measured and 
+evaluated.&nbsp;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: small;">They
+ foster an increased responsibility for their own 
+learning.&nbsp;Contracts can include learning expectations, learning 
+resources, learning experiences, documentation and other</span> <span style="font-size: small;">information such as designated evaluators, evaluation criteria and timelines.&nbsp;</span></span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Source:&nbsp;<span style="color: #0000ff;"><a href="https://www.scribd.com/document/271833630/Teaching-Strategies-Promoting-Active-Learning-in-Healthcare-Education" target="_blank"><span style="color: #0000ff;">Teaching Strategies Promoting Active Learning in Healthcare Education&nbsp;</span></a></span></span></p>
+</td>
+<td style="width: 50%;" valign="top"><hr style="border-color: #DCDCDC;">
+<h3><span style="color: #002b72;"><span style="font-family: arial, helvetica, sans-serif;">Interesting resources</span></span></h3>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Azer, S 2013, <em>Making sense of clinical teaching: A hands-on guide to success</em>, Boca Raton, CRC Press/Taylor &amp; Francis.</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Bradshaw, M &amp; Lowenstein, A 2014, <em>Innovative teaching strategies in nursing and related health professions</em>, Jones and Bartlett Learning.</span></p>
+</td>
+</tr>
+</tbody>
+</table></span></div><div class="book_chapter"><a name="ch101290"></a><span class="formattedusercontent"><table style="border-color: #002b72; border-width: 2px; border-style: solid; box-shadow: #888888 5px 5px 5px;" class="img-rounded" cellspacing="2" cellpadding="2" border="2" align="right">
+<tbody>
+<tr>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;"><span style="font-size: small;">Ask us</span><br></span></td>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;">&nbsp;<span style="font-size: small;">Tell us</span>&nbsp;</span></td>
+<td style="width: 33%;"><span style="color: #002b72;"><span style="font-size: small;"></span><span style="font-size: small;">Find us<a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"></a></span>&nbsp;</span></td>
+</tr>
+<tr>
+<td class="img-rounded"><a href="mailto:anne.lonie@unisa.edu.au" target="_blank"><img src="How%20students%20learn_files/Ask%252520us%252520small_004.png" class="img-responsive" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" alt="Ask a question " title="Ask a question " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://padlet.com/anne_lonie/Feedback" target="_blank"><img src="How%20students%20learn_files/Tell%252520us%252520small_002.png" class="img-responsive" style="margin: 4px auto; display: block; vertical-align: middle;" alt="Give us feedback " title="Give us feedback " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"><img src="How%20students%20learn_files/Find%252520us%252520small_004.png" class="img-responsive" style="margin: 4px auto; vertical-align: middle; display: block;" alt="Come and see us " title="Come and see us " width="50" height="50"></a></td>
+</tr>
+</tbody>
+</table>
+<h2><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Active learning</span></h2>
+<hr style="border-color: #DCDCDC;">
+<table style="width: 90%;" cellspacing="15" cellpadding="15" border="0" align="center">
+<tbody>
+<tr>
+<td style="width: 70%;" colspan="3" valign="top">
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Active
+ learning is the process in which students engage in activities such as 
+reading, writing, discussion, or problem solving that promote analysis, 
+synthesis, and evaluation of class content. Cooperative learning, 
+problem-based learning, and the use of case methods and simulations are 
+some approaches that promote active learning.&nbsp;</span></p>
+<span style="font-family: arial, helvetica, sans-serif; font-size: small;"><img src="How%20students%20learn_files/Active%2520learning.png" alt="Active learning pyramid [Source: http://plpnetwork.com/2015/03/10/shift-active-learning-technology-answer/]" title="Active learning pyramid [Source: http://plpnetwork.com/2015/03/10/shift-active-learning-technology-answer/]" class="img-polaroid" style="float: right; margin: 9px; box-shadow: #888888 5px 5px 5px; " width="40%"></span>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">When
+ students are actively engaged, they think deeper about the course 
+content, and enjoy their learning. This can be through a range of 
+activities: group work, project work, interactive online activities, 
+peer teaching, and so on. Students must be actively participating in and
+ reflecting on the activities to enhance their higher order thinking 
+capabilities.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">The key principles of active learning are:</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">1. The task has purpose and relevance to the students.</span><br><span style="font-size: small; font-family: arial, helvetica, sans-serif;">2. The students are able to reflect on the meaning of what they have learnt.</span><br><span style="font-size: small; font-family: arial, helvetica, sans-serif;">3. The students can negotiate goals and methods of learning with the teacher.</span><br><span style="font-size: small; font-family: arial, helvetica, sans-serif;">4. The students can critically evaluate different ways and means of learning the content.</span><br><span style="font-size: small; font-family: arial, helvetica, sans-serif;">5. The complexity of the learning tasks is comparable to professional contexts and real life.</span><br><span style="font-size: small; font-family: arial, helvetica, sans-serif;">6.
+ The tasks are situation-driven: that is, the need of the situation is 
+taken into consideration in order to establish the learning tasks.</span><br><span style="font-size: small;"><br><span style="font-family: arial, helvetica, sans-serif;">Adapted from&nbsp;Barnes, D 1989,&nbsp;<em>Active Learning, </em>Leeds University TVEI Support Project.</span>&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 45%;"><span style="font-size: small; background-color: #ffff00;"><span style="font-size: small; background-color: #ffff00;"></span></span><hr style="border-color: #DCDCDC;">
+<h3><span></span><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Putting it into practice: Applications in Health Sciences</span></h3>
+<span style="font-size: small; background-color: #ffff00;"><span style="font-size: small; background-color: #ffff00;"></span></span>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><span style="line-height: 20px; background-color: transparent; font-size: small;">1.
+ Health educators can use questioning strategies to develop critical 
+thinking, decision making, and problem solving in students. Word your 
+questions so that they challenge the students to use a higher level of 
+cognitive development (analysing, evaluating and creating).&nbsp;For 
+example, asking a student to define a type of x-ray would test their 
+ability to remember, but asking a student to assess a request to perform
+ that x-ray on a patient with particular symptoms would test ability to 
+evaluate, and prompts the student to think more deeply about the 
+material.&nbsp;</span><span style="line-height: 20px; background-color: transparent;"><br></span></span></p>
+<p style="text-align: justify;"><span style="font-size: small; line-height: 20px; background-color: transparent; font-family: arial, helvetica, sans-serif;">2.
+ Self-evaluation is a type of self-directed learning which &nbsp; allows
+ students to assess their own performance. As a result, they become more
+ independent, and are able to identify knowledge and understanding 
+weaknesses.&nbsp; The aim of the self-evaluation activity is to assist 
+students to&nbsp;identify strengths and weaknesses in their learning, to
+ set their own performance goals, and to increase their satisfaction 
+with their learning - all key elements of the&nbsp;clinical and 
+professional work environments.&nbsp;However, be aware 
+that&nbsp;students can tend to be overly critical of their own 
+performance&nbsp;</span></p>
+<p><span style="font-size: small; background-color: #ffffff; font-family: arial, helvetica, sans-serif;">Adapted from&nbsp;<span style="color: #0000ff;"><a href="https://www.scribd.com/document/271833630/Teaching-Strategies-Promoting-Active-Learning-in-Healthcare-Education" target="_blank"><span style="color: #0000ff;">https://www.scribd.com/document/271833630/Teaching-Strategies-Promoting-Active-Learning-in-Healthcare-Education</span></a></span></span></p>
+</td>
+<td style="width: 10%;"></td>
+<td style="width: 45%;" valign="top"><hr style="border-color: #DCDCDC;">
+<h3><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Interesting resources</span></h3>
+<p><span style="font-size: small; color: #0000ff;"><a href="http://archive.ajpe.org/aj7504/aj750468/aj750468.pdf" target="_blank"><span style="color: #0000ff;">Active learning processes used in US Pharmacy Education</span></a></span></p>
+<p style="text-align: justify;"><span style="color: #333333; font-family: arial, helvetica, sans-serif;"><span style="font-size: small;">Wilson, L &amp; Rockstraw, L 2012, <em>Human simulation for nursing and health professions</em>, Springer Pub Co,&nbsp;New York, NY.<br></span></span></p>
+</td>
+</tr>
+</tbody>
+</table></span></div><div class="book_chapter"><a name="ch101291"></a><span class="formattedusercontent"><table style="border-color: #002b72; border-width: 2px; border-style: solid; box-shadow: #888888 5px 5px 5px;" class="img-rounded" cellspacing="2" cellpadding="2" border="2" align="right">
+<tbody>
+<tr>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;"><span style="font-size: small;">Ask us</span><br></span></td>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;">&nbsp;<span style="font-size: small;">Tell us</span>&nbsp;</span></td>
+<td style="width: 33%;"><span style="color: #002b72;"><span style="font-size: small;"></span><span style="font-size: small;">Find us<a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"></a></span>&nbsp;</span></td>
+</tr>
+<tr>
+<td class="img-rounded"><a href="mailto:anne.lonie@unisa.edu.au" target="_blank"><img src="How%20students%20learn_files/Ask%252520us%252520small_003.png" class="img-responsive" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" alt="Ask a question " title="Ask a question " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://padlet.com/anne_lonie/Feedback" target="_blank"><img src="How%20students%20learn_files/Tell%252520us%252520small_003.png" class="img-responsive" style="margin: 4px auto; display: block; vertical-align: middle;" alt="Give us feedback " title="Give us feedback " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"><img src="How%20students%20learn_files/Find%252520us%252520small_003.png" class="img-responsive" style="margin: 4px auto; vertical-align: middle; display: block;" alt="Come and see us " title="Come and see us " width="50" height="50"></a></td>
+</tr>
+</tbody>
+</table>
+<h2><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Collaborative learning</span></h2>
+<hr style="border-color: #DCDCDC;">
+<table style="width: 90%;" cellspacing="15" cellpadding="15" border="0" align="center">
+<tbody>
+<tr>
+<td style="width: 70%;" colspan="3" valign="top">
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Collaborative
+ learning encompasses a whole host of learning approaches which use the 
+group and team approach to student work. When the group work activities 
+are carefully planned, we are aiming for cooperative learning, in which 
+students work together to accomplish a common academic goal. </span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Effective collaborative learning will optimise peer learning, in which students learn from and teach each other. </span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Examples
+ of collaborative learning activities are: group problem solving tasks; 
+team writing assignments, with the aim of a group-authored document; and
+ reciprocal teaching, in which students act as teachers to&nbsp;lead 
+discussion, summarize material, ask questions, and clarify 
+material.&nbsp;These can all be incredibly effective approaches in the 
+classroom, and it should be remembered that teamwork is an important 
+element in equipping students for success in industry ... but it needs 
+to be carefully set up and prepared.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">When
+ planning collaborative learning activities, such as group carefully 
+consider the goals of the activity, to make sure that there is 
+sufficient depth for each group member to have meaningful input. </span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Try
+ to shape the activity to allow for various group personalities (such as
+ the creative contributers, finishers, etc) each to have the opportunity
+ to shine.&nbsp;Note that you will need to work out how to fairly assign
+ marks to the final product. The self and peer assessment strategy, in 
+which students assess each others' contributions using a list of 
+criteria, may help here, especially if the students have been involved 
+in establishing the criteria used.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">It's
+ also important to remember that students need to be taught how to work 
+together productively in groups - many of them don't find group work 
+easy, and groups that are thrown together do not necessarily succeed. 
+They must develop the skills to maintain a&nbsp;positive interdependence
+ - in which each students depends on the others for success - along with
+ individual&nbsp;accountability. Groups must be set , social skills, 
+group processing, and appropriate grouping.</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;">A number of&nbsp;<span style="color: #0000ff;"><a href="http://w3.unisa.edu.au/ists/new/all/pools-barns/poolinfo.htm#Collaborative_teaching" target="_blank"><span style="color: #0000ff;">collaborative teaching spaces</span></a></span><span style="color: #0000ff;">&nbsp;</span>have
+ been set up throughout the UniSA campuses, in which the physical 
+layouts and technical sharing functions have been especially created to 
+optimise group work and collaborative learning. At the City East campus,
+ there are two Collaborative Teaching Spaces: in the library, in room 
+C4-08, and room C6-26. You can see an image of room C4-08 below.&nbsp;</span></p>
+<p><span style="font-size: small;"><img src="How%20students%20learn_files/IMG_2154.JPG" alt="Collaborative Teaching Space" title="Collaborative Teaching Space" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto; box-shadow: #888888 5px 5px 5px;" width="640" height="249"><br></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 45%;" valign="top"><span style="font-size: small; background-color: #ffff00;"><span style="font-size: small; background-color: #ffff00;"></span></span><hr style="border-color: #DCDCDC;">
+<h3><span style="color: #426d93; font-family: arial, helvetica, sans-serif;"><span style="color: #002b72;">Putting it into practice:</span> <span style="color: #002b72;">Examples of successful collaborative learning in Health Sciences</span></span></h3>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span lang="EN-AU">Collaborative
+ learning in the health sciences can be used in the context of student 
+placement. Groups can be arranged for students to come together to 
+reflect on, and find possible solutions to, any issues that arise on 
+their placement. </span></span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span lang="EN-AU">The
+ teacher should act as a facilitator if only to encourage all students 
+to find their voice and ensure that the potential solutions that arise 
+are acceptable solutions for the problems faced. Students should 
+collectively problem-solve, drawing on their own experiences, learning 
+and understanding to create better outcomes.&nbsp;</span></span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span lang="EN-AU">(Adapted from: Myron, R, French, C, Sullivan, P, Sathyamoorthy, G, Barlow, J &amp; Pomeroy, L 2018, </span><span style="color: #0000ff;" lang="EN-AU"><a href="https://search.library.unisa.edu.au/record/?redirect=https://access.library.unisa.edu.au/login?url=http://www.tandfonline.com/doi/abs/10.1080/13561820.2017.1392935" target="_blank"><span style="color: #0000ff;">'Professionals
+ learning together with patients: An exploratory study of a 
+collaborative learning Fellowship programme for healthcare improvement</span></a></span><span lang="EN-AU">',&nbsp;<em>Journal of Inter-professional Care</em>, vol. 32, no. 3, pp. 257-265.)</span></span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span lang="EN-AU">Another
+ example of cooperative learning is adopting a team approach to learning
+ a particular concept. The concept could be broken down in to sections 
+whereby each member of the team needs to learn and become the ‘expert’ 
+of a particular section. </span></span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span lang="EN-AU">The
+ ‘expert’, once mastering the content, needs to identify an effective 
+way to engage and instruct the group, so they too can become ‘experts’. 
+This strategy requires the student to teach others, an active learning 
+strategy that achieves higher information retention rates than more 
+passive learning strategies.</span></span></p>
+<p><span style="font-size: small; font-family: arial, helvetica, sans-serif;"><span lang="EN-AU">(Adapted from: Cinelli, B, Symons, C, Bechtel, L &amp; Rosecolley, M 1994, </span><span lang="EN-AU"><a href="https://search.library.unisa.edu.au/record/TN_wosA1994NE41800001?redirect=https://access.library.unisa.edu.au/login?url=http://gateway.proquest.com/openurl?res_dat=xri%3Apqm%26volume=64%26date=1994%26rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Aarticle%26spage=99%26issn=0022-4391%26url_ver=Z39.88-2004%26issue=3%26genre=article%26req_dat=xri%3Apqil%3Aclntid%3D14649%26rfr_id=info%3Axri%2Fsid%3Aprimo" target="_blank">'<span style="color: #0000ff;">Applying cooperative learning in health-education practice</span></a></span><span lang="EN-AU">’,&nbsp;<em>Journal Of School Health</em>, vol. 64, no. 3, pp. 99-102.)</span></span></p>
+</td>
+<td style="width: 10%;"></td>
+<td style="width: 45%;" valign="top"><hr style="border-color: #DCDCDC;">
+<h3><span style="line-height: 20px; background-color: transparent;"><em><strong></strong></em></span><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Interesting resources</span></h3>
+<p><span style="font-size: small;"><span style="color: #0000ff;"><a href="http://sydney.edu.au/education_social_work/groupwork/implement/assess/peer.shtml" target="_blank"><span style="color: #0000ff;">Sydney University: Self and Peer Assessment</span></a></span></span></p>
+<p><span style="font-size: small;"><span color="#0000ff" size="3"></span><span style="color: #0000ff;"><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2670235/" target="_blank"><span style="color: #0000ff;">A team-based learning guide for students in health professions education</span></a></span></span></p>
+<p><span style="color: #0000ff; font-size: small;"><a href="https://sty.presswarehouse.com/books/BookDetail.aspx?productID=82220" target="_blank"><span style="color: #0000ff;">Team-based learning: A transformative use of small groups in college teaching</span></a></span></p>
+<p><span style="font-size: small;">Tolsgaard, MG 2016, <span style="color: #0000ff;">'<a href="http://onlinelibrary.wiley.com.access.library.unisa.edu.au/doi/10.1111/medu.12814/full" target="_blank"><span style="color: #0000ff;">Collaborative learning of clinical skills in health professions education: the why, how, when and for whom</span></a>'</span>&nbsp;<em>Medical Education</em>&nbsp;vol. 50(1), pp. 69-78.</span></p>
+</td>
+</tr>
+</tbody>
+</table></span></div><div class="book_chapter"><a name="ch115177"></a><span class="formattedusercontent"><table style="border-color: #002b72; border-width: 2px; border-style: solid; box-shadow: #888888 5px 5px 5px;" class="img-rounded" cellspacing="2" cellpadding="2" border="2" align="right">
+<tbody>
+<tr>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;"><span style="font-size: small;">Ask us</span><br></span></td>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;">&nbsp;<span style="font-size: small;">Tell us</span>&nbsp;</span></td>
+<td style="width: 33%;"><span style="color: #002b72;"><span style="font-size: small;"></span><span style="font-size: small;">Find us<a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"></a></span>&nbsp;</span></td>
+</tr>
+<tr>
+<td class="img-rounded"><a href="mailto:anne.lonie@unisa.edu.au" target="_blank"><img src="How%20students%20learn_files/Ask%252520us%252520small_005.png" class="img-responsive" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" alt="Ask a question " title="Ask a question " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://padlet.com/anne_lonie/Feedback" target="_blank"><img src="How%20students%20learn_files/Tell%252520us%252520small_005.png" class="img-responsive" style="margin: 4px auto; display: block; vertical-align: middle;" alt="Give us feedback " title="Give us feedback " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"><img src="How%20students%20learn_files/Find%2520us%2520small.png" class="img-responsive" style="margin: 4px auto; vertical-align: middle; display: block;" alt="Come and see us " title="Come and see us " width="50" height="50"></a></td>
+</tr>
+</tbody>
+</table>
+<h2><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Thinking and mind tools&nbsp;</span></h2>
+<hr style="border-color: #DCDCDC;">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Thinking tools can<b> </b>provide
+ a scaffold to help students to think with more depth and structure, and
+ can be very valuable in giving students a framework for individual and 
+group problem solving.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">There
+ are many examples of thinking and mind tools which can be effectively 
+used in educational contexts: for example, you've probably heard of 
+the&nbsp; de Bono 6 Hats thinking strategy, and <strong>everyone's</strong>&nbsp;heard of brain-storming.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">It's
+ important to select the right tool for the particularly educational 
+activity, and to scaffold the students' use of the tool carefully. 
+You'll probably find that an approach which works well in one context is
+ not really effective in another - keep careful note of what works with 
+your students at various levels and in a range of problem solving 
+activities.&nbsp;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">We have prepared a&nbsp;<span style="color: #0000ff;"><a target="_blank" href="https://lo.unisa.edu.au/mod/book/view.php?id=611321"><span style="color: #0000ff;">resource&nbsp;</span></a></span>which outlines the use of a number of thinking tools, including</span></p>
+<ul>
+<li><span style="font-size: small; color: #0000ff;"><a target="_blank" href="https://lo.unisa.edu.au/mod/book/view.php?id=611321"><span style="color: #0000ff;">Y charts</span></a></span></li>
+<li><span style="font-size: small; color: #0000ff;"><a target="_blank" href="https://lo.unisa.edu.au/mod/book/view.php?id=611321&amp;chapterid=100451"><span style="color: #0000ff;">PMI charts</span></a></span></li>
+<li><span style="font-size: small; color: #0000ff;"><a target="_blank" href="https://lo.unisa.edu.au/mod/book/view.php?id=611321&amp;chapterid=100453"><span style="color: #0000ff;">De Bono's 6 Hats</span></a></span></li>
+<li><span style="font-size: small; color: #0000ff;"><a target="_blank" href="https://lo.unisa.edu.au/mod/book/view.php?id=611321&amp;chapterid=100454"><span style="color: #0000ff;">3-2-1 Thinking</span></a></span></li>
+<li><span style="font-size: small; color: #0000ff;"><a target="_blank" href="https://lo.unisa.edu.au/mod/book/view.php?id=611321&amp;chapterid=100455"><span style="color: #0000ff;">Brainstorming</span></a></span></li>
+</ul>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;">In
+ this resource, you'll see guidelines on best use of the tool in 
+teaching, ideas on putting the tool into practice in Health education, 
+and links to further resources.</span></p></span></div><div class="book_chapter"><a name="ch200167"></a><span class="formattedusercontent"><table style="border-color: #002b72; border-width: 2px; border-style: solid; box-shadow: #888888 5px 5px 5px;" class="img-rounded" cellspacing="2" cellpadding="2" border="2" align="right">
+<tbody>
+<tr>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;"><span style="font-size: small;">Ask us</span><br></span></td>
+<td style="text-align: center; width: 33%;"><span style="color: #002b72;">&nbsp;<span style="font-size: small;">Tell us</span>&nbsp;</span></td>
+<td style="width: 33%;"><span style="color: #002b72;"><span style="font-size: small;"></span><span style="font-size: small;">Find us<a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"></a></span>&nbsp;</span></td>
+</tr>
+<tr>
+<td class="img-rounded"><a href="mailto:anne.lonie@unisa.edu.au" target="_blank"><img src="How%20students%20learn_files/Ask%2520us%2520small.png" class="img-responsive" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" alt="Ask a question " title="Ask a question " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://padlet.com/anne_lonie/Feedback" target="_blank"><img src="How%20students%20learn_files/Tell%252520us%252520small_006.png" class="img-responsive" style="margin: 4px auto; display: block; vertical-align: middle;" alt="Give us feedback " title="Give us feedback " width="50" height="50"></a></td>
+<td class="img-rounded"><a href="https://lo.unisa.edu.au/mod/page/view.php?id=619007" target="_blank"><img src="How%20students%20learn_files/Find%252520us%252520small_002.png" class="img-responsive" style="margin: 4px auto; vertical-align: middle; display: block;" alt="Come and see us " title="Come and see us " width="50" height="50"></a></td>
+</tr>
+</tbody>
+</table>
+<h2><span style="color: #002b72; font-family: arial, helvetica, sans-serif;">Cognitive theory of multimedia learning</span></h2>
+<hr style="border-color: #DCDCDC;">
+<table style="width: 90%;" cellspacing="15" cellpadding="15" border="0" align="center">
+<tbody>
+<tr>
+<td style="width: 70%;" colspan="3" valign="top">
+<p style="text-align: center;"><span style="font-family: georgia, 'times new roman', times, serif; font-size: medium;"><em>“People learn more deeply from words and pictures than from words alone”.</em> </span></p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">The quote above is true ... however, just putting text and pictures together does not necessarily make for effective learning. </span></p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">When
+ we are using a variety of media in our teaching (test, images, video, 
+interaction), we need to consider the best way for students to learn.</span></p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">The Cognitive Theory of Multimedia Learning gives guidance for informed multimedia instructional messages. </span></p>
+<p style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">This theory is based on three assumptions:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Humans have separate channels for processing visual and auditory information (dual channels)</span></li>
+<li style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Humans are limited in the amount of information that can be processed in each channel at one time (limited capacity)</span></li>
+<li style="text-align: justify;"><span style="font-size: small; font-family: arial, helvetica, sans-serif;">Humans
+ engage in active learning by attending to relevant incoming 
+information, organising selected information into coherent mental 
+representations, and integrating mental representations with other 
+knowledge (active processing)</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">For
+ example, information presented to a student using both auditory 
+(narration) and visual (text) displays requires the student to process 
+this information using both channels. However, the student's ability to 
+process is limited. If a students is receiving information from both 
+channels, his or her mind is forced to be selective with the information
+ it chooses to keep, and which bits of information he or she should make
+ connections between. </span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 45%;" valign="top"><span style="font-size: small; background-color: #ffff00;"><span style="font-size: small; background-color: #ffff00;"></span></span><hr style="border-color: #DCDCDC;">
+<h3><span style="color: #002b72;"><span style="font-family: arial, helvetica, sans-serif;">Putting it into practice: Instructional goals for multimedia instruction</span></span></h3>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><span style="background-color: transparent;">The
+ table below offers a brief overview of three instructional goals in 
+multimedia learning, bearing in mind the assumptions we discussed above.
+ You might find it useful to consider the various techniques listed in 
+the third column when creating a multimedia learning activity. </span></span><span lang="EN-AU"></span></p>
+<p></p>
+</td>
+<td style="width: 10%;"></td>
+<td style="width: 45%;" valign="top"><hr style="border-color: #DCDCDC;">
+<h3><span style="color: #002b72;"><span style="font-family: arial, helvetica, sans-serif;">Interesting resource</span></span></h3>
+<p><span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif; background-color: transparent;">Mayer, R 2014, '<span style="color: #0000ff;"><a href="https://search.library.unisa.edu.au/record/?redirect=https://access.library.unisa.edu.au/login?url=http://dx.doi.org/10.1017/CBO9781139547369.005?nosfx=y" target="_blank"><span style="color: #0000ff;">Cognitive theory of multimedia learning</span></a></span></span><span style="font-family: arial, helvetica, sans-serif; background-color: transparent;">', Richard Mayer, <em>The Cambridge Handbook of Multimedia Learning</em>,&nbsp;</span></span><span style="font-family: arial, helvetica, sans-serif; background-color: transparent;"></span><span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif; background-color: transparent;">Cambridge University Press, Cambridge, UK, pp. 43-71</span></span></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td style="width: 45%;" colspan="3" valign="top">
+<table style="width: 90%; background-color: #002b72;" cellspacing="0" cellpadding="2" border="1" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;" width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;"><b>Goal </b></span></p>
+</td>
+<td style="text-align: center;" width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;"><b>Representative technique</b></span></p>
+</td>
+<td style="text-align: center;" width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;"><b>Description of technique </b></span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Minimize extraneous processing</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Coherence principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Eliminate extraneous (non-relevant) material </span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Signaling principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Highlight essential material</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Redundancy principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Do not add printed text to spoken text</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Spatial contiguity</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Place printed text near corresponding graphic&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Temporal contiguity principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Present narration and the corresponding graphic simultaneously</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Manage essential processing</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Segmenting principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Break a presentation into parts</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Pre-training principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Describe names and characteristics of key elements before the lesson</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Modality principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Use spoken rather than printed text</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Multimedia principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Use words and pictures together rather than words alone</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Foster generative processing</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Personalization principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Put words in conversational style</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Voice principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Use human voice for spoken words</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Embodiment principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Give on-screen characters humanlike gestures</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Guided discovery principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Provide hints and feedback as learner solves problems</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Self-explanation principle</span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Ask learners to explain a lesson to themselves</span></p>
+</td>
+</tr>
+<tr>
+<td width="150" valign="top">
+<p><span style="font-size: small; color: #ffffff;">&nbsp;</span></p>
+</td>
+<td width="150" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Drawing principle </span></p>
+</td>
+<td width="342" valign="top">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: small; color: #ffffff;">Ask learners to make drawings for the lesson</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><span style="font-size: small;"><span lang="EN-AU">.</span></span></span></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><span style="font-size: small;"><span lang="EN-AU">Adapted from: Mayer, R 2014,<span style="color: #0000ff;"> <a href="https://search.library.unisa.edu.au/record/?redirect=https://access.library.unisa.edu.au/login?url=http://dx.doi.org/10.1017/CBO9781139547369.005?nosfx=y" target="_blank"><span style="color: #0000ff;">Cognitive theory of multimedia learning</span></a></span></span><span lang="EN-AU">, Richard Mayer,&nbsp;<i>The Cambridge handbook of multimedia learning</i>, Cambridge University Press, Cambridge, UK, pp. 43-71&nbsp;</span></span></span></span></p>
+</td>
+</tr>
+</tbody>
+</table></span></div></div>    </div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var require = {
+    baseUrl : 'https://lo.unisa.edu.au/lib/requirejs.php/1590443332/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://lo.unisa.edu.au/lib/javascript.php/1590443332/lib/jquery/jquery-3.2.1.min',
+        jqueryui: 'https://lo.unisa.edu.au/lib/javascript.php/1590443332/lib/jquery/ui-1.12.1/jquery-ui.min',
+        jqueryprivate: 'https://lo.unisa.edu.au/lib/javascript.php/1590443332/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script type="text/javascript" src="How%20students%20learn_files/require.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+M.util.js_pending("core/first");require(['core/first'], function() {
+;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp(function(videojs) {
+        videojs.options.flash.swf = "https://lo.unisa.edu.au/media/player/videojs/videojs/video-js.swf";
+videojs.addLanguage("en",{
+ "Audio Player": "Audio Player",
+ "Video Player": "Video Player",
+ "Play": "Play",
+ "Pause": "Pause",
+ "Replay": "Replay",
+ "Current Time": "Current Time",
+ "Duration Time": "Duration Time",
+ "Remaining Time": "Remaining Time",
+ "Stream Type": "Stream Type",
+ "LIVE": "LIVE",
+ "Loaded": "Loaded",
+ "Progress": "Progress",
+ "Progress Bar": "Progress Bar",
+ "progress bar timing: currentTime={1} duration={2}": "{1} of {2}",
+ "Fullscreen": "Fullscreen",
+ "Non-Fullscreen": "Non-Fullscreen",
+ "Mute": "Mute",
+ "Unmute": "Unmute",
+ "Playback Rate": "Playback Rate",
+ "Subtitles": "Subtitles",
+ "subtitles off": "subtitles off",
+ "Captions": "Captions",
+ "captions off": "captions off",
+ "Chapters": "Chapters",
+ "Descriptions": "Descriptions",
+ "descriptions off": "descriptions off",
+ "Audio Track": "Audio Track",
+ "Volume Level": "Volume Level",
+ "You aborted the media playback": "You aborted the media playback",
+ "A network error caused the media download to fail part-way.": "A network error caused the media download to fail part-way.",
+ "The media could not be loaded, either because the server or network failed or because the format is not supported.": "The media could not be loaded, either because the server or network failed or because the format is not supported.",
+ "The media playback was aborted due to a corruption problem or because the media used features your browser did not support.": "The media playback was aborted due to a corruption problem or because the media used features your browser did not support.",
+ "No compatible source was found for this media.": "No compatible source was found for this media.",
+ "The media is encrypted and we do not have the keys to decrypt it.": "The media is encrypted and we do not have the keys to decrypt it.",
+ "Play Video": "Play Video",
+ "Close": "Close",
+ "Close Modal Dialog": "Close Modal Dialog",
+ "Modal Window": "Modal Window",
+ "This is a modal window": "This is a modal window",
+ "This modal can be closed by pressing the Escape key or activating the close button.": "This modal can be closed by pressing the Escape key or activating the close button.",
+ ", opens captions settings dialog": ", opens captions settings dialog",
+ ", opens subtitles settings dialog": ", opens subtitles settings dialog",
+ ", opens descriptions settings dialog": ", opens descriptions settings dialog",
+ ", selected": ", selected",
+ "captions settings": "captions settings",
+ "subtitles settings": "subititles settings",
+ "descriptions settings": "descriptions settings",
+ "Text": "Text",
+ "White": "White",
+ "Black": "Black",
+ "Red": "Red",
+ "Green": "Green",
+ "Blue": "Blue",
+ "Yellow": "Yellow",
+ "Magenta": "Magenta",
+ "Cyan": "Cyan",
+ "Background": "Background",
+ "Window": "Window",
+ "Transparent": "Transparent",
+ "Semi-Transparent": "Semi-Transparent",
+ "Opaque": "Opaque",
+ "Font Size": "Font Size",
+ "Text Edge Style": "Text Edge Style",
+ "None": "None",
+ "Raised": "Raised",
+ "Depressed": "Depressed",
+ "Uniform": "Uniform",
+ "Dropshadow": "Dropshadow",
+ "Font Family": "Font Family",
+ "Proportional Sans-Serif": "Proportional Sans-Serif",
+ "Monospace Sans-Serif": "Monospace Sans-Serif",
+ "Proportional Serif": "Proportional Serif",
+ "Monospace Serif": "Monospace Serif",
+ "Casual": "Casual",
+ "Script": "Script",
+ "Small Caps": "Small Caps",
+ "Reset": "Reset",
+ "restore all settings to the default values": "restore all settings to the default values",
+ "Done": "Done",
+ "Caption Settings Dialog": "Caption Settings Dialog",
+ "Beginning of dialog window. Escape will cancel and close the window.": "Beginning of dialog window. Escape will cancel and close the window.",
+ "End of dialog window.": "End of dialog window."
+});
+
+    });
+});;
+
+require(['core/yui'], function(Y) {
+    M.util.init_skiplink(Y);
+});
+;
+M.util.js_pending('core/notification');
+require(['core/notification'], function(amd) {
+    amd.init(916023, []);
+    M.util.js_complete('core/notification');
+});;
+M.util.js_pending('core/log');
+require(['core/log'], function(amd) {
+    amd.setConfig({"level":"warn"});
+    M.util.js_complete('core/log');
+});M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script type="text/javascript" src="How%20students%20learn_files/footer"></script>
+<script type="text/javascript">
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","yes":"Yes","no":"No","ok":"OK","cancel":"Cancel","morehelp":"More help","loadinghelp":"Loading...","confirm":"Confirm","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} alias\/shortcut files that use this file as their source","select":"Select"},"admin":{"confirmdeletecomments":"You are about to delete comments, are you sure?","confirmation":"Confirmation"},"block":{"addtodock":"Move this to the dock","undockitem":"Undock this item","dockblock":"Dock {$a} block","undockblock":"Undock {$a} block","undockall":"Undock all","hidedockpanel":"Hide the dock panel","hidepanel":"Hide panel"},"langconfig":{"thisdirectionvertical":"btt"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {Y.use("moodle-core-dock-loader",function() {M.core.dock.loader.initLoader();
+});
+Y.use("moodle-filter_mathjaxloader-loader",function() {M.filter_mathjaxloader.configure({"mathjaxconfig":"MathJax.Hub.Config({\r\n    config: [\"Accessible.js\", \"Safe.js\"],\r\n    errorSettings: { message: [\"!\"] },\r\n    skipStartupTypeset: true,\r\n    messageStyle: \"none\"\r\n});\r\n","lang":"en"});
+});
+Y.use("moodle-filter_glossary-autolinker",function() {M.filter_glossary.init_filter_autolinking({"courseid":0});
+});
+M.util.help_popups.setup(Y);
+Y.use("moodle-core-popuphelp",function() {M.core.init_popuphelp();
+});
+ M.util.js_pending('random5ef3552d7337a2'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random5ef3552d7337a2'); });
+})();
+//]]>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b09c130ee","applicationID":"3565040","transactionName":"Ml1bN0tQWURXV00LVwsXbBFQHlpYUhtbDVcOF00MVl0YR0RdVxYXDFZdBkEfR19G","queueTime":0,"applicationTime":255,"atts":"HhpYQQNKSko=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
