@@ -94,6 +94,6 @@ There are a few must read articles and videos we want you to watch and read:
 
 <p align="center">
   <a href="./learning-paths/groundwork-for-student-learning.md">
-    <img alt="Lets get started" src="./assets/lets-get-started.png" />
+    <img width="300px" alt="Lets get started" src="./assets/lets-get-started.png" />
   </a>
 </p>
