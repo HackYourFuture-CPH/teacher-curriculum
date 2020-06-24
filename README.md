@@ -91,4 +91,9 @@ There are a few must read articles and videos we want you to watch and read:
 - [Student Misconceptions](https://teachtogether.tech/#s:pck-misunderstand)
 
 ---
-[![Lets get started](./assets/lets-get-started.png)](./learning-paths/groundwork-for-student-learning.md)
+
+<p align="center">
+  <a href="./learning-paths/groundwork-for-student-learning.md">
+    <img alt="Lets get started" src="./assets/lets-get-started.png" />
+  </a>
+</p>
