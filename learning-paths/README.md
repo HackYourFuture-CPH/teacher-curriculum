@@ -2,6 +2,16 @@
 
 The learning paths will **prepare you as a teacher** for different parts of being a teacher. It puts together topics and exercises that **will improve your teaching skills.** We have made two learning paths ready and two more in the pibeline.
 
+
+## Learning paths overview
+
+The order of the learning paths are
+1. Groundwork for student learning
+2. Teaching the class
+
+![Learning paths](./../assets/learning-paths.PNG)
+
+
 ## Groundwork for students learning
 
 This learning path prepares you for **understanding what actually happens when a student learn.** which mechanisms and processes takes place inside of the brain. Which philosophies and schools are there when we talk about student learning. 
@@ -37,14 +47,6 @@ This learning path is still being developed.This learning path will be **focused
 ## After the class *TBA*
 
 This learning path is still being developed. It will **focus on what happens after the class.** That means evaluating your own teaching, giving feedback to other teachers and giving good feedback/reviews to students. 
-
-## Learning paths overview
-
-The order of the learning paths is:
-1. Groundwork for student learning
-2. Teaching the class
-
-![Learning paths](./../assets/learning-paths.PNG)
 
 <!--
 
