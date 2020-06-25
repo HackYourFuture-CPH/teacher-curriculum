@@ -8,15 +8,15 @@ Therefore we have made a learning path for our mentors to become better teachers
 
 This repo serves as the curriculum for what the mentors should go through in order to become a certified HackYourFuture teacher. It is one way of giving back to the mentors that have given us some incredibly much 🥇
 
-
 ### Contents
 
-  - [Overview](#overview)
-  - [Topics](#topics)
-  - [Exercises](#exercises)
-  - [Learning Paths](#learning-paths)
-  - [Joining Us](#joining-us)
-  - [Workshops](#workshops)
+- [Overview](#overview)
+- [Tips and Tricks](#tips-and-tricks)
+- [Topics](#topics)
+- [Exercises](#exercises)
+- [Learning Paths](#learning-paths)
+- [Joining Us](#joining-us)
+- [Workshops](#workshops)
 
 ---
 
@@ -26,9 +26,15 @@ This repo serves as the curriculum for what the mentors should go through in ord
 
 ---
 
+## Tips and Tricks
+
+Your pit-stop before preparing a lesson, mentoring a student, or starting class.  This section contains quick and actionable advice collected from the HYF community.  No background necessary!
+
+---
+
 ## Topics
 
-The section in this GitBook called topics is a collections of concepts and techniques in education that are helpful for teaching.
+The section in this GitBook called topics is a collections of concepts and techniques in education that are helpful for teaching code.
 
 If you only have a few minutes here and there, dive into the topics! You can learn something interesting and helpful in any amount of time.
 
@@ -79,7 +85,7 @@ Schedules, slide shows, materials, and guides for running your own in-person wor
 
 We would love your help with contributing to the curiculum! So please if you want to add/change anything regarding the curriculum, please make a PR to the [teacher curriculum repo](https://github.com/HackYourFuture-CPH/teacher-curriculum/)
 
-If you want to contribute but don't have an idea for something new. Look in the [summary file](./SUMMARY.md). The topics and exercises that are outcommented still needs to be written. 
+If you want to contribute but don't have an idea for something new. Look in the [summary file](./SUMMARY.md). The topics and exercises that are outcommented still needs to be written.
 
 ## Must-Reads
 

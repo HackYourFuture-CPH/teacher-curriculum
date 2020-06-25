@@ -1,5 +1,6 @@
 # Teacher Curriculum
 
+- [Tips and Tricks](./tips-and-tricks/README.md)
 - [Topics](./topics/README.md)
   - [Asking questions](./topics/asking-questions.md)
   - [Assessing class performance](./topics/assessing-class-performance.md)
@@ -10,6 +11,8 @@
   - [Lesson plans extra](./topics/lesson-plans-extra.md)
   - [Live coding](./topics/live-coding.md)
   - [Mental models](./topics/mental-models.md)
+  - [Student Misconceptions](./topics/student-misconceptions.md)
+  - [Pedagogical Content Knowledge](./topics/pedagogical-content-knowledge.md)
   - [motivating students](./topics/motivating-students.md)
   - [Notional machines](./topics/notional-machines.md)
   - [Pair programming](./topics/pair-programming.md)
@@ -18,8 +21,6 @@
   - [Problem based learning](./topics/problem-based-learning.md)
   <!-- - [Student centered learning]() https://youtu.be/2N1I6sOhDiw https://lo.unisa.edu.au/mod/book/tool/print/index.php?id=610988 -->
   <!-- - [Creating a social class]() -->
-  <!-- - [Pedagogical Content Knowledge]() -->
-  <!-- - [Student Misconceptions]() -->
   <!-- - [worked examples]() -->
   <!-- - [problem solving strategies]() -->
 - [Exercises](./exercises/README.md)
@@ -51,6 +52,6 @@
   <!-- - ["Enrolling" in this course]() -->
   <!-- - [Submitting assignments]() -->
   <!-- - [Feedbacking assignments]() -->
-- [Code of Conduct](./CODE-OF-CONDUCT.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
 - [Contributing](./CONTRIBUTING.md)
 
