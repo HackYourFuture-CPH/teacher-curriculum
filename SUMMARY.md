@@ -11,7 +11,7 @@
   - [Lesson plans extra](./topics/lesson-plans-extra.md)
   - [Live coding](./topics/live-coding.md)
   - [Mental models](./topics/mental-models.md)
-  - [Student Misconceptions](./topics/student-misconceptions.md)
+  - [Misconceptions](./topics/misconceptions.md)
   - [Pedagogical Content Knowledge](./topics/pedagogical-content-knowledge.md)
   - [motivating students](./topics/motivating-students.md)
   - [Notional machines](./topics/notional-machines.md)

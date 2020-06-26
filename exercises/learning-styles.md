@@ -3,6 +3,7 @@
 
 - [Learning styles exercise](#learning-styles-exercise)
   - [Learning objectives](#learning-objectives)
+  - [Study Guide](#study-guide)
   - [Exercises](#exercises)
   - [Learning Paths](#learning-paths)
 
@@ -12,6 +13,12 @@
 
 * Being able to identify different learning styles
 * Prepare a topic for the different learning styles
+
+---
+
+## Study Guide
+
+* [Learning Styles](../topics/learning-styles.md)
 
 ---
 

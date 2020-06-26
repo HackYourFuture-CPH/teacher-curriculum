@@ -29,7 +29,6 @@ Being very clear about what is expected before vs. during vs. after class will h
 - What does a student need to do after the lesson?
 - What are your practical constraints?
 
-
 ## References
 
 - [A Lesson Design Process](https://teachtogether.tech/#s:process)
