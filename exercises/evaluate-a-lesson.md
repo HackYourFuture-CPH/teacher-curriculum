@@ -2,6 +2,8 @@
 
 Observe a Sunday class and write up your evaluation.
 
+If possible, have a call with the coach you evaluated after the class to share your feedback and to understand what they had planned for the day.  No lesson ever goes as planned so you'll both learn a lot by comparing the expectations to the actual lesson.
+
 ### Contents
 
 - [Learning objectives](#learning-objectives)
@@ -9,17 +11,17 @@ Observe a Sunday class and write up your evaluation.
   - [Topics](#topics)
   - [Learning Paths](#learning-paths)
 - [The Exercise](#the-exercise)
-- [Assessment Criteria](#assessment-criteria)
 
 ---
 
 ## Learning objectives
 
-desctiption what you should be able to do after completing this exercise
-
-* bullet
-* point
-* list
+- Observing class engagement
+- Observing student/teacher dynamics
+- Observing student/student dynamics
+- Evaluating student progress on the fly
+- Recognizing changes in direction
+- Noting successful and un-successful improvisations
 
 ---
 
@@ -55,8 +57,15 @@ This exercise is part of these learning paths:
 
 ---
 
-## Assessment Criteria
+## The Exercise
 
-what to look for when completing the exericse
+Write up a document analyzing the class.  Your write-up should answer at least these questions, but feel free to add more!
 
-and when assessing another coache's submitted exercise
+- What did the coach do well?
+- What could the coach do better next time?
+- What was something a student did that helped the class dynamics?
+- What was something a student did that interfered with class dynamics? How did the coach react?
+- Did the coach do a live coding session? If so, how was it?
+- Did the lesson include small group or pair programming? How clear was this for the students? Was there an adequate recap after the exercises?
+
+

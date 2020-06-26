@@ -90,13 +90,25 @@ As a final project for this learning path you will ... wait for it ... teach a c
 
 > Written _before_ you taught the class!
 
-Share the planning process you went through before the class.
+Share the planning process you went through before the class and your prep notes for in class.  This can be in any format, just link to it in your issue.
 
 ### Class Recording
 
+If possible, provide a recording of your class session.
 
 ### Feedback
 
+Ask your students and fellow coaches for feedback and include a link to the feedback in your issue.  This could be a google form, a copy-pasted collection of slack messages, or any other collection of feedback.
 
 ### Reflection
+
+Look back over the entire process (planning, execution, feedback) and reflect on what went well and what didn't.  Make a special effort to compare what you expected in your prep notes to the feedback you received.
+
+- Did students learn what you'd intended?
+- How did peer interactions effect what you had planned?
+- How well do you think you adapted to your class' needs?
+
+### Lessons Learned
+
+Send a pull request to the `Tips and Tricks` section of this GitBook with at least one practical piece of advice you learned through this process. Link your PR to this issue.
 
