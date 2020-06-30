@@ -26,13 +26,13 @@ This repo serves as the curriculum for what the mentors should go through in ord
 
 ---
 
-## Tips and Tricks
+### Tips and Tricks
 
 Your pit-stop before preparing a lesson, mentoring a student, or starting class.  This section contains quick and actionable advice collected from the HYF community.  No background necessary!
 
 ---
 
-## Topics
+### Topics
 
 The section in this GitBook called topics is a collections of concepts and techniques in education that are helpful for teaching code.
 
@@ -40,7 +40,7 @@ If you only have a few minutes here and there, dive into the topics! You can lea
 
 ---
 
-## Exercises
+### Exercises
 
 Looking to go a little deeper and get some hands-on experience with the topics discussed above?  Take a look through the exercises!
 
@@ -50,7 +50,7 @@ But wait! Exercises are for practice, repetition, and redundancy. When you find 
 
 ---
 
-## Learning Paths
+### Learning Paths
 
 You're into it? You've got a few hours a week and want to get really good at teaching programming?  check out the learning paths.
 
