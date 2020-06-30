@@ -11,18 +11,30 @@ This repo serves as the curriculum for what the mentors should go through in ord
 ### Contents
 
 - [Overview](#overview)
-- [Tips and Tricks](#tips-and-tricks)
-- [Topics](#topics)
-- [Exercises](#exercises)
-- [Learning Paths](#learning-paths)
+  - [Tips and Tricks](#tips-and-tricks)
+  - [Must-Reads](#must-reads)
+  - [Topics](#topics)
+  - [Exercises](#exercises)
+  - [Learning Paths](#learning-paths)
 - [Joining Us](#joining-us)
-- [Workshops](#workshops)
+<!-- [Workshops](#workshops) -->
 
 ---
 
 ## Overview
 
 ![Learning paths](./assets/learning-paths.PNG)
+
+---
+
+## Must-Reads
+
+There are a few must read articles and videos we want you to watch and read:
+- [The Rules from teachtogether.tech](https://teachtogether.tech/#the-rules) (a list)
+- [What is Pedagogy?](https://www.youtube.com/watch?v=QcpwEoW1uY8) (video)
+- [Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI) (video)
+- [Pedagogical Content Knowledge](https://teachtogether.tech/#s:pck) (short read)
+- [Student Misconceptions](https://teachtogether.tech/#s:pck-misunderstand)
 
 ---
 
@@ -86,15 +98,6 @@ Schedules, slide shows, materials, and guides for running your own in-person wor
 We would love your help with contributing to the curiculum! So please if you want to add/change anything regarding the curriculum, please make a PR to the [teacher curriculum repo](https://github.com/HackYourFuture-CPH/teacher-curriculum/)
 
 If you want to contribute but don't have an idea for something new. Look in the [summary file](./SUMMARY.md). The topics and exercises that are outcommented still needs to be written.
-
-## Must-Reads
-
-There are a few must read articles and videos we want you to watch and read:
-- [The Rules from teachtogether.tech](https://teachtogether.tech/#the-rules) (a list)
-- [What is Pedagogy?](https://www.youtube.com/watch?v=QcpwEoW1uY8) (video)
-- [Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI) (video)
-- [Pedagogical Content Knowledge](https://teachtogether.tech/#s:pck) (short read)
-- [Student Misconceptions](https://teachtogether.tech/#s:pck-misunderstand)
 
 ---
 
