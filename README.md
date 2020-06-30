@@ -17,6 +17,7 @@ This repo serves as the curriculum for what the mentors should go through in ord
   - [Exercises](#exercises)
   - [Learning Paths](#learning-paths)
 - [Joining Us](#joining-us)
+- [Contributing](#contributing-to-the-teacher-curriculum)
 <!-- [Workshops](#workshops) -->
 
 ---
@@ -27,7 +28,7 @@ This repo serves as the curriculum for what the mentors should go through in ord
 
 ---
 
-## Must-Reads
+### Must-Reads
 
 There are a few must read articles and videos we want you to watch and read:
 - [The Rules from teachtogether.tech](https://teachtogether.tech/#the-rules) (a list)
