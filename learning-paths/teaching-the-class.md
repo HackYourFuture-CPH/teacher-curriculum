@@ -63,6 +63,8 @@ A guide to which topics are helpful for this learning path
 
 ### [Asking questions](../topics/asking-questions.md)
 
+### [Learning Objectives](../topics/learning-objectives.md)
+
 ### [Lesson Plans](../topics/lesson-plans.md)
 
 ### [Assessing class performance](../topics/assessing-class-performance.md)
@@ -71,7 +73,7 @@ A guide to which topics are helpful for this learning path
 
 ## Exercises
 
-
+- [Asking Questions](https://teach.hackyourfuture.be/topics/asking-questions)
 
 ---
 
@@ -81,10 +83,10 @@ As a final project for this learning path you will ... wait for it ... teach a c
 
 ### Lesson Specs
 
-- What can you expect students to know before the lesson starts? This will be based on what they saw in previous modules.
-- What do you expect students to learn _during class time_? (ie. what would you put on a quiz to hand out at 16h after class)
-- What is a student's next step after class ends to get started with the week's assignments?
 - What are your practical constraints? (ie. time constraints, classroom materials like projectors or a whiteboard, your personal knowledge of the material, ...)
+- What can you expect students to know before the lesson starts? This will be based on what they saw in previous modules.
+- What learning objectives will you set for _during class time_? (ie. what would you put on a quiz to hand out at 16h after class)
+- What is a student's next step after class ends to get started with the week's assignments?
 
 ### Prep Notes
 
