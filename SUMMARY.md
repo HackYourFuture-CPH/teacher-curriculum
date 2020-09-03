@@ -1,5 +1,6 @@
 # Teacher Curriculum
 
+- [Must-Reads](./must-reads/README.md)
 - [Tips and Tricks](./tips-and-tricks/README.md)
 - [Topics](./topics/README.md)
   - [Asking questions](./topics/asking-questions.md)

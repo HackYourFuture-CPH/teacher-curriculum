@@ -8,18 +8,6 @@ Therefore we have made a learning path for our mentors to become better teachers
 
 This repo serves as the curriculum for what the mentors should go through in order to become a certified HackYourFuture teacher. It is one way of giving back to the mentors that have given us some incredibly much 🥇
 
-### Contents
-
-- [Overview](#overview)
-  - [Must-Reads](#must-reads)
-  - [Tips and Tricks](#tips-and-tricks)
-  - [Topics](#topics)
-  - [Exercises](#exercises)
-  - [Learning Paths](#learning-paths)
-- [Joining Us](#joining-us)
-- [Contributing](#contributing-to-the-teacher-curriculum)
-<!-- [Workshops](#workshops) -->
-
 ---
 
 ## Overview
@@ -30,11 +18,7 @@ This repo serves as the curriculum for what the mentors should go through in ord
 
 ### Must-Reads
 
-There are a few must read articles and videos we want you to watch and read:
-- [The Rules from teachtogether.tech](https://teachtogether.tech/en/index.html#the-rules) (a list)
-- [What is Pedagogy?](https://www.youtube.com/watch?v=QcpwEoW1uY8) (video)
-- [Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI) (video)
-- [Pedagogical Content Knowledge](https://teachtogether.tech/en/index.html#s:pck) (short read)
+A few concepts, articles, and videos you should check out before moving on.  These will lay the conceptual foundation for what you study in the rest of this gitbook.
 
 ---
 
