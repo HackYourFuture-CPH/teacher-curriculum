@@ -11,8 +11,8 @@ This repo serves as the curriculum for what the mentors should go through in ord
 ### Contents
 
 - [Overview](#overview)
-  - [Tips and Tricks](#tips-and-tricks)
   - [Must-Reads](#must-reads)
+  - [Tips and Tricks](#tips-and-tricks)
   - [Topics](#topics)
   - [Exercises](#exercises)
   - [Learning Paths](#learning-paths)
