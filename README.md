@@ -31,11 +31,10 @@ This repo serves as the curriculum for what the mentors should go through in ord
 ### Must-Reads
 
 There are a few must read articles and videos we want you to watch and read:
-- [The Rules from teachtogether.tech](https://teachtogether.tech/#the-rules) (a list)
+- [The Rules from teachtogether.tech](https://teachtogether.tech/en/index.html#the-rules) (a list)
 - [What is Pedagogy?](https://www.youtube.com/watch?v=QcpwEoW1uY8) (video)
 - [Peer Instruction for Active Learning](https://www.youtube.com/watch?v=Z9orbxoRofI) (video)
-- [Pedagogical Content Knowledge](https://teachtogether.tech/#s:pck) (short read)
-- [Student Misconceptions](https://teachtogether.tech/#s:pck-misunderstand)
+- [Pedagogical Content Knowledge](https://teachtogether.tech/en/index.html#s:pck) (short read)
 
 ---
 
