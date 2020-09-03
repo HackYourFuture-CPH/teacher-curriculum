@@ -16,15 +16,15 @@ This repo serves as the curriculum for what the mentors should go through in ord
 
 ---
 
-### Must-Reads
-
-A few concepts, articles, and videos you should check out before moving on.  These will lay the conceptual foundation for what you study in the rest of this gitbook.
-
----
-
 ### Tips and Tricks
 
 Your pit-stop before preparing a lesson, mentoring a student, or starting class.  This section contains quick and actionable advice collected from the HYF community.  No background necessary!
+
+---
+
+### References
+
+Links to great resources for learning more about education, and teaching programming. Including a list of _must-reads_: few concepts, articles, and videos you should check out before moving on.  These will lay the conceptual foundation for what you study in the rest of this gitbook.
 
 ---
 
