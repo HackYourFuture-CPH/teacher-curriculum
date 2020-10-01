@@ -14,7 +14,7 @@
   - [Mental models](./topics/mental-models.md)
   - [Misconceptions](./topics/misconceptions.md)
   - [Pedagogical Content Knowledge](./topics/pedagogical-content-knowledge.md)
-  - [motivating students](./topics/motivating-students.md)
+  - [Motivating students](./topics/motivating-students.md)
   - [Notional machines](./topics/notional-machines.md)
   - [Pair programming](./topics/pair-programming.md)
   - [Pedagogy](./topics/pedagogy.md)

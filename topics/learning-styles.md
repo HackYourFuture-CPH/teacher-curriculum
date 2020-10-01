@@ -11,15 +11,14 @@ Knowing about learning styles is such an important part of student centered lear
 - [Quiz to test what kind you are (its actually pretty good)](https://vark-learn.com/the-vark-questionnaire/)
 - Read [this article](https://visme.co/blog/8-learning-styles/) highlighting 8 different learning styles
 - Counterpoint!
-  - [Do learners really know best? Urban
-legends in education](http://lexiconic.net/pedagogy/Do_Learners.pdf)
-  - [Top 10 myths about teaching computer science](https://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext) (#5)
-  - [Matching Learning Style to Instructional Method:
-Effects on Comprehension](https://www.kovacs.com/info250readings/Rogowskyetal.pdf)
+  - Do learners really know best? Urban
+legends in education: http://lexiconic.net/pedagogy/Do_Learners.pdf
+  - [Top 10 myths about teaching computer science](https://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext)
+  - Matching Learning Style to Instructional Method - Effects on Comprehension: https://www.kovacs.com/info250readings/Rogowskyetal.pdf
 
 ## Exercises
 
-- [Learning styles](./../exercises/learning-styles.md)
+- [Learning styles](./../exercises/learning-styles.md#exercises)
 
 ## Learning Paths
 

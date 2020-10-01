@@ -15,7 +15,7 @@ There are a couple of different pedagogical approaches for teaching that will be
 
 ## Exercises
 
-- [Pedagogy](./../exercises/pedagogy.md)
+- [Pedagogy](./../exercises/pedagogy.md#exercises)
 
 ## Learning Paths
 

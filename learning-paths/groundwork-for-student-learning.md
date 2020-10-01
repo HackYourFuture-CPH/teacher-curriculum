@@ -10,17 +10,20 @@ This learning path will explain the basis for learning. It will go into learning
 
 ## Study Guide
 
-| Study  | Topic  | Preparation  | Exercises  |
-|---|---|---|---|
-|  Student learning styles | [topic](./../topics/learning-styles.md) | [Preparation](./../topics/learning-styles.md#preparation)  | [Exercise](./../exercises/learning-styles.md)  |
-|  Motivating students |  [topic](./../topics/motivating-students.md) | [Preparation](./../topics/motivating-students.md#preparation)  | [Exercise](./../exercises/motivating-students.md)  |
-|  The Basics of Pedagogy |  [topic](./../topics/pedagogy.md) | [Preparation](./../topics/pedagogy.md#preparation)  | [Exercise](./../exercises/pedagogy.md)  |
-|  Cognitive load |  [topic](./../topics/cognitive-load.md) | [Preparation](./../topics/cognitive-load.md#preparation)  | [Exercise](./../exercises/cognitive-load.md)  |
-|  Mental models |  [topic](./../topics/mental-models.md) | [Preparation](./../topics/mental-models.md#preparation)  | [Exercise](./../exercises/mental-models.md)  |
+These are the topics to complete in the Groundwork for student learning learning path
+- [Student learning styles](./../topics/learning-styles.md)
+- [Motivating students](./../topics/motivating-students.md)
+- [The Basics of Pedagogy](./../topics/pedagogy.md)
+- [Cognitive load](./../topics/cognitive-load.md)
+- [Mental models](./../topics/mental-models.md) 
 
+When you have completed all the exercises for each topic you can move on to the final project:
 
 ## Final project
 
-Using [this article](https://lo.unisa.edu.au/mod/book/tool/print/index.php?id=610988) and all the topics above, summarize the question how do students learn?
 
-With that question answered, how will you change the way you run a class in the future? Will you even change anything?
+
+Using [this article](https://lo.unisa.edu.au/mod/book/tool/print/index.php?id=610988) and all the topics above, please reflect and write an essay answering the following: 
+
+- Summarize the question of how students learn? What different parts are involved
+- How will you change the way you run a class in the future? Will you even change anything?

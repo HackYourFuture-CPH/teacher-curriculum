@@ -15,7 +15,7 @@ The mental models are made up of schema. Which is smaller templates of how the w
 
 ## Exercises
 
-- [Mental models](./../exercises/mental-models.md)
+- [Mental models](./../exercises/mental-models.md#exercises)
 
 ## Learning Paths
 

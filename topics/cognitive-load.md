@@ -14,7 +14,7 @@ Teachers can help students who are suffering from information overload by lettin
 
 ## Exercises
 
-- [Cognitive load](./../exercises/cognitive-load.md)
+- [Cognitive load](./../exercises/cognitive-load.md#exercises)
 
 ## Learning Paths
 

@@ -19,7 +19,7 @@ Here are some more practical ways of motivating students in class
 
 ## Paths & Exercises
 
-- [Exercise](./../exercises/motivating-students.md)
+- [Exercise](./../exercises/motivating-students.md#exercises)
 
 ## Learning Paths
 
