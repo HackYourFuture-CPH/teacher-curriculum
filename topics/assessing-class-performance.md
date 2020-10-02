@@ -17,7 +17,7 @@ what are common student mistakes and misconceptions for the subject you're teach
 
 ## Exercises
 
-- [Exercise](./../exercises/flipped-classroom.md)
+- [Exercise](../exercises/assessing-class-performance.md)
 
 ## Learning Paths
 

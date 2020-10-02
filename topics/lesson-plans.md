@@ -29,6 +29,8 @@ Being very clear about what is expected before vs. during vs. after class will h
 - What does a student need to do after the lesson?
 - What are your practical constraints?
 
+---
+
 ## References
 
 - [A Lesson Design Process](https://teachtogether.tech/#s:process)
@@ -39,9 +41,11 @@ Being very clear about what is expected before vs. during vs. after class will h
   - [the original paper](https://dl.acm.org/doi/pdf/10.1145/2674683.2674690) (the talk about paradigms is not relevant to this topic)
   - a lesson plan based on this pattern - [async programming week 1](https://hackyourfuture.be/asynchronous-programming/week-1/#/)
 
-## Exercises
+---
 
-Link to the learning paths and exercises that include this topic
+## [Exercises](../exercises/lesson-plans.md)
+
+---
 
 ## Learning Paths
 

@@ -16,7 +16,7 @@ Read up on these different ways to ask questions
 Put someone in "prison" if they answer too many questions. That person cannot answer any question the next 30 minutes
 
 ## Exercises
-- [Exercises](./../exercises/asking-quesstions.md)
+- [Exercises](../exercises/asking-questions.md)
 
 
 ## Learning Paths
