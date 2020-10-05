@@ -25,8 +25,3 @@ Understanding how your students understand is _Pedagogical Content Knowledge_.  
 - computinged
   - [Critical: What Students Get Wrong](https://computinged.wordpress.com/2013/05/13/the-critical-part-of-pck-what-students-get-wrong/)
   - [What CS Teachers Know](https://computinged.wordpress.com/2010/02/05/what-cs-teachers-know-pck-for-cs-ed/)
-
-
----
-
-## [Exercises](../exercises/assessing-class-performance.md)
