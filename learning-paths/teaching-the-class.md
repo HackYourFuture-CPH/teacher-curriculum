@@ -50,24 +50,16 @@ It might be worth to encourage to prepare mini presentations in groups before ea
 
 A guide to which topics are helpful for this learning path
 
-### Teaching approaches
 - [Flipped classroom](./../topics/flipped-classroom.md)
 - [Peer instruction](./../topics/peer-instruction.md)
 - [Pair programming](./../topics/pair-programming.md)
 - [Problem based learning](./../topics/problem-based-learning.md)
 - [Live coding](./../topics/live-coding.md)
-
-### [Misconceptions](../topics/misconceptions.md)
-
-### [Pedagogical Content Knowledge](../topics/pedagogical-content-knowledge.md)
-
-### [Asking questions](../topics/asking-questions.md)
-
-### [Learning Objectives](../topics/learning-objectives.md)
-
-### [Lesson Plans](../topics/lesson-plans.md)
-
-### [Assessing class performance](../topics/assessing-class-performance.md)
+- [Misconceptions](../topics/misconceptions.md)
+- [Pedagogical Content Knowledge](../topics/pedagogical-content-knowledge.md)
+- [Asking questions](../topics/asking-questions.md)
+- [Lesson Plans](../topics/lesson-plans.md)
+- [Assessing class performance](../topics/assessing-class-performance.md)
 
 ---
 
