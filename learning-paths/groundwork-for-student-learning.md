@@ -2,10 +2,6 @@
 
 This learning path will explain the basis for learning. It will go into learning styles, mental models, padegogy and much more. It is a basis for understanding how students learn, and thereby a basis for how to teach.
 
-- [Groundwork for student learning](#groundwork-for-student-learning)
-- [Study Guide](#study-guide)
-- [Final project](#final-project)
-
 ---
 
 ## Study Guide
