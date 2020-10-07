@@ -8,6 +8,8 @@ Therefore we have made a learning path for our mentors to become better teachers
 
 This repo serves as the curriculum for what the mentors should go through in order to become a certified HackYourFuture teacher. It is one way of giving back to the mentors that have given us so incredibly much 🥇
 
+Here is [a video](https://www.youtube.com/watch?v=zu88rwMHxh0) explaining why the Teacher Curriculum was even created
+
 ---
 
 ## Overview
