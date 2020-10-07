@@ -31,7 +31,7 @@ When the exercise is ready for review put the issue in the `Ready for review` co
 
 Here is [a video](https://www.youtube.com/watch?v=YR0-olyOkQY) of Evan explaining more about how it works:
 
-[![Handing in exercises](./assets/youtube.png)]([./assets/lets-get-started.png](https://www.youtube.com/watch?v=YR0-olyOkQY))
+[![Handing in exercises](./assets/youtube.PNG)]([./assets/lets-get-started.png](https://www.youtube.com/watch?v=YR0-olyOkQY))
 
 
 ### Getting the certificate 🏆
