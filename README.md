@@ -16,11 +16,23 @@ This repo serves as the curriculum for what the mentors should go through in ord
 
 ---
 
-## Want to start becoming a certified HYF teacher?
 
-Do you like learning together? Looking to share your experience with other coaches? Get in touch with either [Benjamin](mailto:benjami@hackyourfuture.dk) or [Evan](mailto:evan@hackyourfuture.be) and we can invite you as a contributor to our [teacher training repository](https://github.com/HackYourFuture-CPH/teacher-curriculum-exercise-tracker)
+## Enrolling in the teacher curriculum - Becoming a certified HYF teacher
 
-There you can track your progress through the learning paths on the repository project boards, give and receive feedback, and find others' interested in learning the same skills.
+Just like the student have homework the same is true for the teacher curriculum. Instead of homework there are exercises for each topic and a "final project" for each learning path. To hand in the exercises we use project boards in this [repo](https://github.com/HackYourFuture-CPH/teacher-curriculum-exercise-tracker/projects). There is a project board for each learning path. 
+
+Let us know if you're interested and we'll invite you as a collaborator to the "coach-study" repo
+
+## Submitting assignments
+
+Create an issue for each exercise like you can see [here](https://github.com/HackYourFuture-CPH/teacher-curriculum-exercise-tracker/issues/1)
+
+When the exercise is ready for review put the issue in the `Ready for review` column. When another mentor has reviewed it pull it in `Done`
+
+Here is [a video](https://www.youtube.com/watch?v=YR0-olyOkQY) of Evan explaining more about how it works:
+
+[![Handing in exercises](./assets/youtube.png)]([./assets/lets-get-started.png](https://www.youtube.com/watch?v=YR0-olyOkQY))
+
 
 ### Getting the certificate 🏆
 

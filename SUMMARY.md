@@ -49,7 +49,7 @@
   <!-- - [Creating Study Materials]() -->
   <!-- - [Being a Mentor]() -->
   <!-- - [Workshops](./workshops/README.md)-->
-- [Join Us](./join-us/README.md)
+  <!-- - [Join Us](./join-us/README.md) -->
   <!-- - ["Enrolling" in this course]() -->
   <!-- - [Submitting assignments]() -->
   <!-- - [Feedbacking assignments]() -->
