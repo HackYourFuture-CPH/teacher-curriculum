@@ -51,5 +51,30 @@ This is a very important guideline for giving feedback in the class. But simply 
 
 ## Giving feedback to the mentor regarding your observations
 
+**Don't be too negative**
+The mentors are volunteers and we want them to feel good about teaching here. Try and focus on what they can improve and 
 
+**Focus on the action not the person**
+We want to point to what we observed and why that was a problem for the students. Dont say: You are a lazy teacher and the students were super annoyed. Instead say: the exercise you did was not properly prepared, this led to lost of confusion for the students. 
 
+**Keep it at 3 points**
+If there is too much feedback then it can be hard to know what to work on as a teacher. It might also feel a little discouring. 3 points is what i have found works best.
+
+**Always say something positive**
+Again these are volunteer teachers that use their free time to help people grow. So please say something great that they did or some things!
+
+**Give something concrete the teacher can work with until next class**
+This obviously depends on the class. But i try and be very concrete. Try minimizing the number of times you are changing windows. Try focus on acknowledging questions coming from the students. Try have more breaks for next Sunday.
+
+## Example
+
+This is a real example of some feedback i gave
+
+Hey mentor...
+I just wanted to write some feedback on yesterdays lecture :slightly_smiling_face:
+You have a really pleasant way to teach and it affects the students in a really good way! There was a good mood in the class, people were laughing and having a good time.
+I also heard you respond to the student asking about telling the directory of the terminal. But you had a very precise and thoughtful answer where you also acknowledged him asking the question. Great stuff!
+
+Think about being clearer when you give exercises. Be Extremely clear (way more than you think is necessary). The students in the class were struggling with basic things like cloning the right repo, working in the right folder (nodejs/week2/exercise-template), copying the right file (should it be movies.js or movies.json) and understanding the question. A lot of times i would come to some students and i first asked what problem they were solving. They had a hard time explaining that.
+
+A smaller thing that i saw is that you are changing windows quite a lot when teaching. Try for Sunday to think about it minimizing the number of times you change window, or maybe have fewer windows open
