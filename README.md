@@ -91,7 +91,7 @@ If you only have a few minutes here and there, dive into the topics! You can lea
 
 Looking to go a little deeper and get some hands-on experience with the topics discussed above?  Take a look through the exercises!
 
-Each exercise focuses on a particular skill you'll need as a coach. You'll practice creating class materials, evaluating assignments, an much more.
+Each exercise focuses on a particular skill you'll need as a coach. You'll practice creating class materials, evaluating assignments, and much more.
 
 But wait! Exercises are for practice, repetition, and redundancy. When you find the exercise you want to work on, finish it more than once! Say you're practicing "_creating worked examples_", well then write 5 or 6.  Would you ever tell a student they only need to solve one coding challenge and they're good to go?
 
